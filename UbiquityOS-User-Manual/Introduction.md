@@ -46,17 +46,18 @@ With a fully extensible framework, UbiquityOS allows organizations to:
 
 ## Investors
 Supported by industry leaders who believe in the future of decentralized finance and governance.
-    1, animocabrands
-    2, concave
-    3, meritcircle
-    4, momentum6
-    5, ascensiveassets
-    6, snackclub
-    7, csquared
-    8, playventures
-    9, 369CAPITAL
-    10, newtribe capital
-    11, bltzr
+
+  1, animocabrands    
+  2, concave
+  3, meritcircle
+  4, momentum6
+  5, ascensiveassets
+  6, snackclub  
+  7, csquared
+  8, playventures
+  9, 369CAPITAL
+  10, newtribe capital
+  11, bltzr
     
 ## Partners and Integrations
 Collaborating with pioneering protocols and blockchain ecosystems to power UbiquityOS.
