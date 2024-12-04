@@ -27,9 +27,9 @@ Our unique XP system tracks contributions and ensures transparent, merit-based d
 ### - Seamless Stablecoin Integration
 Powered by Ubiquity Dollar, a stablecoin pegged to the US Dollar, the platform offers seamless transactions for all contributors and organizations. Leverage innovative financial solutions, such as:
 
-  # - Ubiquity Card (Beta) for quick access to funds.
+  ##### - Ubiquity Card (Beta) for quick access to funds.
   Ubiquity Credit for unsecured loans (coming soon).
-  # - 
+  ##### - 
 
 ### Open Ecosystem
 With a fully extensible framework, UbiquityOS allows organizations to:
