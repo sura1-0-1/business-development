@@ -61,6 +61,22 @@ Supported by industry leaders who believe in the future of decentralized finance
     
 ## Partners and Integrations
 Collaborating with pioneering protocols and blockchain ecosystems to power UbiquityOS.
+1, ethereum
+2, Gnosis Chain
+3, polygon
+4, optimism
+5, arbitrum one
+6, base
+7, bnbchain
+8, blast
+9, zksync
+10, Avalanche
+11, celo
+12, world
+13,Zora
+14, Sky
+15, Uniswap
+16, Sharlock
 
 # Join the Community
 
