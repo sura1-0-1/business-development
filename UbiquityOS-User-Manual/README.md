@@ -42,7 +42,7 @@ We welcome contributions to improve this manual. Here's how you can help:
 ---
 
 ## 📩 **Support**
-If you encounter any issues or have questions, check out the [FAQs](FAQs.md) or contact our support team at **support@ubiquityos.com**.
+If you encounter any issues or have questions, check out the [FAQs](FAQs.md) or contact our support team at **@.com**.
 
 ---
 
