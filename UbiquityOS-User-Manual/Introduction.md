@@ -2,35 +2,35 @@
 
 Welcome to **UbiquityOS DAO**, a revolutionary platform redefining decentralized operations. By combining DeFi and AI, UbiquityOS ensures a seamless, fair, and transparent ecosystem where contributors and organizations thrive.
 
-Our platform empowers contributors with instant rewards, tracks efforts accurately, and offers unparalleled tools for governance and collaboration—all powered by open-source innovation and a global, merit-based infrastructure.
+Our platform empowers contributors with instant rewards, tracks efforts accurately, and offers unparalleled tools for governance and collaboration all powered by open-source innovation and a global, merit-based infrastructure.
 
 ## Why UbiquityOS DAO?
 
 ### 1, Revolutionizing Decentralized Operations
 
-We combine cutting-edge decentralized finance (DeFi) with artificial intelligence to create a real-time, dynamic rewards system. With precise contribution tracking and equitable compensation, we drive productivity and fairness like never before.
+  We combine cutting-edge decentralized finance (DeFi) with artificial intelligence to create a real-time, dynamic rewards system. With precise contribution tracking and equitable compensation, we drive productivity and fairness like never before.
 
 ### 2, Instant Dynamic Compensation
 
-Get paid instantly upon completing a task—no waiting, no middlemen. Our system rewards your efforts in real-time, boosting contributor satisfaction and organizational efficiency.
+  Get paid instantly upon completing a task—no waiting, no middlemen. Our system rewards your efforts in real-time, boosting contributor satisfaction and organizational efficiency.
 
 ### 3, Global Asynchronous Work
 
-UbiquityOS enables 100% asynchronous, merit-based collaboration, connecting talent worldwide. Work anytime, anywhere, and be part of a global community focused on results and innovation.
+  UbiquityOS enables 100% asynchronous, merit-based collaboration, connecting talent worldwide. Work anytime, anywhere, and be part of a global community focused on results and innovation.
 
 ### 4, Open-Source Innovation
 
-Built by the community, for the community. UbiquityOS is fully open-source, ensuring continuous improvement and innovation from a global network of developers.
+  Built by the community, for the community. UbiquityOS is fully open-source, ensuring continuous improvement and innovation from a global network of developers.
 
 ## Key Features
 
 ### - XP-Powered Governance
 
-Our unique XP system tracks contributions and ensures transparent, merit-based decision-making within the DAO. Every contributor’s efforts are recognized and rewarded.
+  Our unique XP system tracks contributions and ensures transparent, merit-based decision-making within the DAO. Every contributor’s efforts are recognized and rewarded.
 
 ### - Seamless Stablecoin Integration
 
-Powered by Ubiquity Dollar, a stablecoin pegged to the US Dollar, the platform offers seamless transactions for all contributors and organizations. Leverage innovative financial solutions, such as:
+  Powered by Ubiquity Dollar, a stablecoin pegged to the US Dollar, the platform offers seamless transactions for all contributors and organizations. Leverage innovative financial solutions, such as:
 
 **- Ubiquity Card (Beta) for quick access to funds.**
 
@@ -49,9 +49,10 @@ With a fully extensible framework, UbiquityOS allows organizations to:
 
 ### Current task statistics:
 
-- Available Tasks: 251 tasks with $29,309 in rewards.
-- Ongoing Tasks: 8 tasks with $3,475 in rewards.
-- Completed Tasks: 754 tasks with $93,616 in rewards distributed.
+ - Available Tasks: 251 tasks with $29,309 in rewards.
+ - Ongoing Tasks: 8 tasks with $3,475 in rewards.
+ - Completed Tasks: 754 tasks with $93,616 in rewards distributed.
+
 
 ### Our Community and Partners
 
