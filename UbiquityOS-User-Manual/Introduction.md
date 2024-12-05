@@ -8,29 +8,29 @@ Our platform empowers contributors with instant rewards, tracks efforts accurate
 
 ### 1, Revolutionizing Decentralized Operations
 
-We combine cutting-edge decentralized finance (DeFi) with artificial intelligence to create a real-time, dynamic rewards system. With precise contribution tracking and equitable compensation, we drive productivity and fairness like never before.
+  We combine cutting-edge decentralized finance (DeFi) with artificial intelligence to create a real-time, dynamic rewards system. With precise contribution tracking and equitable compensation, we drive productivity and fairness like never before.
 
 ### 2, Instant Dynamic Compensation
 
-Get paid instantly upon completing a task—no waiting, no middlemen. Our system rewards your efforts in real-time, boosting contributor satisfaction and organizational efficiency.
+  Get paid instantly upon completing a task—no waiting, no middlemen. Our system rewards your efforts in real-time, boosting contributor satisfaction and organizational efficiency.
 
 ### 3, Global Asynchronous Work
 
-UbiquityOS enables 100% asynchronous, merit-based collaboration, connecting talent worldwide. Work anytime, anywhere, and be part of a global community focused on results and innovation.
+  UbiquityOS enables 100% asynchronous, merit-based collaboration, connecting talent worldwide. Work anytime, anywhere, and be part of a global community focused on results and innovation.
 
 ### 4, Open-Source Innovation
 
-Built by the community, for the community. UbiquityOS is fully open-source, ensuring continuous improvement and innovation from a global network of developers.
+  Built by the community, for the community. UbiquityOS is fully open-source, ensuring continuous improvement and innovation from a global network of developers.
 
 ## Key Features
 
 ### - XP-Powered Governance
 
-Our unique XP system tracks contributions and ensures transparent, merit-based decision-making within the DAO. Every contributor’s efforts are recognized and rewarded.
+  Our unique XP system tracks contributions and ensures transparent, merit-based decision-making within the DAO. Every contributor’s efforts are recognized and rewarded.
 
 ### - Seamless Stablecoin Integration
 
-Powered by Ubiquity Dollar, a stablecoin pegged to the US Dollar, the platform offers seamless transactions for all contributors and organizations. Leverage innovative financial solutions, such as:
+  Powered by Ubiquity Dollar, a stablecoin pegged to the US Dollar, the platform offers seamless transactions for all contributors and organizations. Leverage innovative financial solutions, such as:
 
 **- Ubiquity Card (Beta) for quick access to funds.**
 
