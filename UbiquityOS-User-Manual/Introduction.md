@@ -49,9 +49,9 @@ With a fully extensible framework, UbiquityOS allows organizations to:
 
 ### Current task statistics:
 
-    - Available Tasks: 251 tasks with $29,309 in rewards.
-    - Ongoing Tasks: 8 tasks with $3,475 in rewards.
-    - Completed Tasks: 754 tasks with $93,616 in rewards distributed.
+ - Available Tasks: 251 tasks with $29,309 in rewards.
+ - Ongoing Tasks: 8 tasks with $3,475 in rewards.
+ - Completed Tasks: 754 tasks with $93,616 in rewards distributed.
 
 
 ### Our Community and Partners
