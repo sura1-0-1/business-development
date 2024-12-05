@@ -2,7 +2,7 @@
 
 Welcome to **UbiquityOS DAO**, a revolutionary platform redefining decentralized operations. By combining DeFi and AI, UbiquityOS ensures a seamless, fair, and transparent ecosystem where contributors and organizations thrive.
 
-Our platform empowers contributors with instant rewards, tracks efforts accurately, and offers unparalleled tools for governance and collaboration—all powered by open-source innovation and a global, merit-based infrastructure.
+Our platform empowers contributors with instant rewards, tracks efforts accurately, and offers unparalleled tools for governance and collaboration all powered by open-source innovation and a global, merit-based infrastructure.
 
 ## Why UbiquityOS DAO?
 
@@ -49,9 +49,10 @@ With a fully extensible framework, UbiquityOS allows organizations to:
 
 ### Current task statistics:
 
-- Available Tasks: 251 tasks with $29,309 in rewards.
-- Ongoing Tasks: 8 tasks with $3,475 in rewards.
-- Completed Tasks: 754 tasks with $93,616 in rewards distributed.
+    - Available Tasks: 251 tasks with $29,309 in rewards.
+    - Ongoing Tasks: 8 tasks with $3,475 in rewards.
+    - Completed Tasks: 754 tasks with $93,616 in rewards distributed.
+
 
 ### Our Community and Partners
 
