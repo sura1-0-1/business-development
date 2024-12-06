@@ -1,6 +1,6 @@
-# Account Verification Process
+# Setup DevPool Account
 
-### Set Up Your GitHub Account
+## Create GitHub Account and Register to DevPool
 
 * **Sign Up to GitHub**
 
@@ -22,4 +22,4 @@ Fill out the information such as username and Password.
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Finally, authenticate the ubiquity bot to access you personal date for registration. &#x20;
+Finally, Authenticate the ubiquity bot to access you personal date for registration. &#x20;

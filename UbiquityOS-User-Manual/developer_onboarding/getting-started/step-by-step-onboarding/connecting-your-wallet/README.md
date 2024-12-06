@@ -1,4 +1,0 @@
-# Connecting Your Wallet
-
-
-
