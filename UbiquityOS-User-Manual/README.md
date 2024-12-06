@@ -29,10 +29,10 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
     * [_Cash Out_](cash-out/index.md)
     * [_FAQ_](faq/index.md)
 
-    &#x20;[<mark style="color:blue;">**Partner Onboarding**</mark>](Partner-Onboarding/Guide.md)
+    &#x20;[<mark style="color:blue;">**Partner Onboarding**</mark>](developer_onboarding/partner-onboarding/guide.md)
 
     * [_Troubleshooting for Partners_](Partner-Onboarding/Troubleshooting.md)
-* [<mark style="color:blue;">**Plugin Development**</mark>](Plugin-Development/Template-Guide.md)
+* [<mark style="color:blue;">**Plugin Development**</mark>](frequently-asked-questions-faq/plugin-development/template-guide.md)
   * [_Best Practices_](Plugin-Development/Best-Practices.md)
 * [<mark style="color:blue;">**FAQs**</mark>](broken-reference)
 
@@ -44,9 +44,9 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 
 To get started with **Ubiquity**-**DAO**, choose the appropriate guide based on your role:
 
-1. [**Partner**](Partner-Onboarding/Guide.md): Learn how to install the plugin and integrate with **Ubiquity**-**DAO**.
+1. [**Partner**](developer_onboarding/partner-onboarding/guide.md): Learn how to install the plugin and integrate with **Ubiquity**-**DAO**.
 2. [**Developer\`s**](Developer-Onboarding/Guide.md): Follow detailed steps to work with the **Ubiquity**-**OS** devpool flow.
-3. [**3rd-Party Plugin Development**](Plugin-Development/Template-Guide.md): Discover how to use the plugin template and best practices.
+3. [**3rd-Party Plugin Development**](frequently-asked-questions-faq/plugin-development/template-guide.md): Discover how to use the plugin template and best practices.
 
 ***
 

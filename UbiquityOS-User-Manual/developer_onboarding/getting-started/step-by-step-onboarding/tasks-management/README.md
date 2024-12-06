@@ -1,6 +1,6 @@
 # Submit Solutions
 
-## Creating a Draft Pull Request and Starting Work on a Task
+Creating a Draft Pull Request and Starting Work on a Task
 
 This guide outlines the step-by-step procedure for creating a Draft Pull Request (PR) and starting work on a GitHub task. Following this process ensures proper task assignment, context tracking, and work deliverable auditing.
 
@@ -9,6 +9,8 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
 1. Navigate to the repository on GitHub.
 2. Click on the **Fork** button at the top right corner of the page.
 3. This creates a personal copy of the repository under your GitHub account.
+
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2: Clone the Forked Repository**
 
@@ -26,20 +28,22 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
 
 ### **Step 3: Create a New Branch**
 
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt="" width="348"><figcaption></figcaption></figure>
+
 1.  Create a branch for your task:
 
     ```bash
-    bashCopy codegit checkout -b <branch-name>
+    git checkout -b <branch-name>
     ```
 
     Replace `<branch-name>` with a descriptive name (e.g., `fix-bug-123`).
 
-### **Step 4: Open a Draft Pull Request**
+### **Step 4: Open a Draft Pull Request.**
 
 1.  Commit and push your initial changes to the branch:
 
     ```bash
-    bashCopy codegit add .
+    git add .
     git commit -m "Initial commit for task"
     git push origin <branch-name>
     ```
@@ -54,7 +58,10 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
        ```
 
        Replace `<URL-to-the-issue>` with the actual issue URL.
-5. Select **Create Draft Pull Request** (not a standard PR).
+5.
+
+    <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+6. Select **Create Draft Pull Request** (not a standard PR).
 
 ### **Step 5: Work on the Task**
 
@@ -62,20 +69,18 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
 2.  Push your commits regularly:
 
     ```bash
-    bashCopy codegit push origin <branch-name>
+    git push origin <branch-name>
     ```
 
 **Tip:** Ensure all builds and tests pass before pushing your changes.
 
 ### **Step 6: Mark PR as Ready for Review**
 
-1. When your work is complete:
-   * Go to the draft PR on GitHub.
-   * Click **Ready for review** to mark it as complete.
+When your work is complete go to the draft PR on GitHub and click **Ready for review** to mark it as complete.
 
-### **⇒ Important Guidelines:**
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-#### **During the Review Process**
+### **⇒  During the Review Process**
 
 1. **Do Not Force Push :**\
    Avoid using `git push --force` once the review process starts. Force pushing deletes commit history, which slows down reviews.
