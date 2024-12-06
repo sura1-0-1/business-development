@@ -2,39 +2,50 @@
 coverY: 0
 ---
 
-# UbiquityOS User Manual
+# Ubiquity DAO User Manual
 
-Welcome to the **UbiquityOS User Manual**! This guide is designed to help partners, developers, and plugin developers get started with UbiquityOS quickly and effectively. It includes step-by-step instructions, troubleshooting tips, and FAQs to ensure a smooth onboarding process.
+Welcome to the **Ubiquity DAO User Manual**!&#x20;
+
+This guide is designed to help **partners**, **developers**, and **plugin developers** get started with Ubiquity OS quickly and effectively. It includes step-by-step instructions, troubleshooting tips, and FAQs to ensure a smooth onboarding process.
 
 ***
 
 ## 📖 **Table of Contents**
 
 * [<mark style="color:blue;">**Introduction**</mark>](Introduction.md)
-* [<mark style="color:blue;">**Partner Onboarding**</mark>](Partner-Onboarding/Guide.md)
-  * [_Troubleshooting for Partners_](Partner-Onboarding/Troubleshooting.md)
-* [<mark style="color:blue;">**Developer Onboarding**</mark>](Developer-Onboarding/Guide.md)
-  * [_Flow Diagram_](Developer-Onboarding/Flow-Diagram.png)
-  * [_Getting Started_](getting-started/index.md)
-  * [_Verify Account / Connect Wallet / Top-Up for Payouts_](account-and-wallet/index.md)
-  * [_Create Tasks_](create-tasks/index.md)
-  * [_Add Plugins_](plugins/index.md)
-  * [_Pricing & Managing Tasks_](tasks-management/index.md)
-  * [_Contribute / Submit Solutions_](contribute-and-submit/index.md)
-  * [_Cash Out_](cash-out/index.md)
-  * [_FAQ_](faq/index.md)
-* [<mark style="color:blue;">**3rd-Party Plugin Development**</mark>](Plugin-Development/Template-Guide.md)
+  * Key Products
+  * Our Products
+  * Our Vision
+  * Mission
+*   [<mark style="color:blue;">**Developer Onboarding**</mark>](Developer-Onboarding/Guide.md)
+
+    * [_Getting Started_](getting-started/index.md)
+    * [_Verify Account / Connect Wallet / Top-Up for Payouts_](account-and-wallet/index.md)
+    * [_Create Tasks_](create-tasks/index.md)
+    * [_Add Plugins_](plugins/index.md)
+    * Create-tasks
+    * [_Pricing & Managing Tasks_](tasks-management/index.md)
+    * [_Contribute / Submit Solutions_](contribute-and-submit/index.md)
+    * [_Cash Out_](cash-out/index.md)
+    * [_FAQ_](faq/index.md)
+
+    &#x20;[<mark style="color:blue;">**Partner Onboarding**</mark>](Partner-Onboarding/Guide.md)
+
+    * [_Troubleshooting for Partners_](Partner-Onboarding/Troubleshooting.md)
+* [<mark style="color:blue;">**Plugin Development**</mark>](Plugin-Development/Template-Guide.md)
   * [_Best Practices_](Plugin-Development/Best-Practices.md)
-* [<mark style="color:blue;">**FAQs**</mark>](page/faqs.md)
+* [<mark style="color:blue;">**FAQs**</mark>](broken-reference)
+
+
 
 ***
 
 ## 🚀 **Getting Started**
 
-To get started with Ubiquity-OS, choose the appropriate guide based on your role:
+To get started with **Ubiquity**-**DAO**, choose the appropriate guide based on your role:
 
-1. [**Partner**](Partner-Onboarding/Guide.md): Learn how to install the plugin and integrate with Ubiquity-OS.
-2. [**Developer\`s**](Developer-Onboarding/Guide.md): Follow detailed steps to work with the Ubiquity-OS devpool flow.
+1. [**Partner**](Partner-Onboarding/Guide.md): Learn how to install the plugin and integrate with **Ubiquity**-**DAO**.
+2. [**Developer\`s**](Developer-Onboarding/Guide.md): Follow detailed steps to work with the **Ubiquity**-**OS** devpool flow.
 3. [**3rd-Party Plugin Development**](Plugin-Development/Template-Guide.md): Discover how to use the plugin template and best practices.
 
 ***
@@ -51,7 +62,7 @@ We welcome contributions to improve this manual. Here's how you can help:
 
 ## 📩 **Support**
 
-If you encounter any issues or have questions, check out the [FAQs](page/faqs.md) or contact our support team at **@.com**.
+If you encounter any issues or have questions, check out the [FAQs](broken-reference) or contact our support team at **@.com**.
 
 ***
 
