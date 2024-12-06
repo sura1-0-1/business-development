@@ -1,4 +1,0 @@
-# Importance of Onboarding
-
-
-

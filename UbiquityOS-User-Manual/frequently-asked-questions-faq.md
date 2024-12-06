@@ -3,7 +3,7 @@ description: >-
   Welcome to the FAQ (Frequently Asked Questions) page, your go-to resource for
   all the information you need about our platform. Whether you're just starting
   out or are already engaged with our services
-cover: ../.gitbook/assets/Blue Ocean Photo Beach Wedding Cover.png
+cover: .gitbook/assets/Blue Ocean Photo Beach Wedding Cover.png
 coverY: 0
 ---
 
