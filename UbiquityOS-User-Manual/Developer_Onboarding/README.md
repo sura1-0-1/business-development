@@ -1,6 +1,6 @@
 # UbiquityOS for Developers
 
-Welcome to the UbiquityOS Developers Manual. Use this guide to maximize your experience and understand the core features of UbiquityOS.
+Welcome to the UbiquityOS Developers Manual. Use this guide to maximize your experience and understand the core features of UbiquityOS DevPool.
 
 ## 📖 **Table of Contents**
 
@@ -12,3 +12,5 @@ Welcome to the UbiquityOS Developers Manual. Use this guide to maximize your exp
 6. [Contribute / Submit Solutions](contribute-and-submit/index.md)
 7. [Cash Out](cash-out/index.md)
 8. [FAQ](faq/index.md)
+
+The **UbiquityOS DevPool** is more than just a workplace. it's a dynamic ecosystem where innovation meets collaboration, enabling contributors to thrive in a decentralized environment.

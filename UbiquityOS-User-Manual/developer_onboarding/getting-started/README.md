@@ -36,7 +36,7 @@ Follow our step-by-step guide to get started.
    * View task details, deadlines, and rewards.
 2. **Submit Your Work:**
    * Complete tasks to the best of your ability.
-   * Submit your solutions directly through the platform.
+   * Submit your solutions directly through the Github.
 3. **Receive Instant Rewards:**
    * Benefit from real-time compensation upon successful task completion.
 
