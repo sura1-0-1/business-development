@@ -2,7 +2,7 @@
 
 The **DevPool Communication Guidelines** are designed to ensure a **productive and respectful environment** for contributors, fostering high-quality interactions and minimizing distractions.
 
-#### **Key Rules for Communication**
+### **Key Rules for Communication**
 
 1.  **Silence is Golden**:
 
@@ -22,7 +22,7 @@ The **DevPool Communication Guidelines** are designed to ensure a **productive a
    * Questions about **rules** or the **DevPool Flow** will not be entertained in the DevPool chat.
    * Once started on a task, contributors can ask clarifications on **GitHub**, where core team members are more accommodating.
 
-**Making a Strong First Impression**
+### **Making a Strong First Impression**
 
 **Introduction Tips**:\
 Writing an introduction in the group chat is welcome but should be thoughtful and distinctive.

@@ -23,13 +23,11 @@ use /help command to displays a list of all available commands and their descrip
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-this are all available list of commands&#x20;
+this are all available list of commands.
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-then, you can use&#x20;
-
-
+then, you can use the list of commands to interact  Ubiquity OS.
 
 **1, /ask Command:**
 

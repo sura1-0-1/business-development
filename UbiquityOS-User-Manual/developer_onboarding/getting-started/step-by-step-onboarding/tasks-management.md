@@ -10,7 +10,7 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
 2. Click on the **Fork** button at the top right corner of the page.
 3. This creates a personal copy of the repository under your GitHub account.
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2: Clone the Forked Repository**
 
@@ -28,7 +28,7 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
 
 ### **Step 3: Create a New Branch**
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt="" width="348"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="348"><figcaption></figcaption></figure>
 
 1.  Create a branch for your task:
 
@@ -60,7 +60,7 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
        Replace `<URL-to-the-issue>` with the actual issue URL.
 5.
 
-    <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 6. Select **Create Draft Pull Request** (not a standard PR).
 
 ### **Step 5: Work on the Task**
@@ -78,7 +78,7 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
 
 When your work is complete go to the draft PR on GitHub and click **Ready for review** to mark it as complete.
 
-<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 ### **⇒  During the Review Process**
 
