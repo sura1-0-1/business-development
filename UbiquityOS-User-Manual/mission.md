@@ -4,6 +4,9 @@ At **Ubiquity DAO**, we aspire to become the **bank of the metaverse**, driving 
 
 We aim to:
 
-* Deliver a **robust stablecoin** for the DAO economy.
-* Facilitate **seamless economic integration** into platforms and products, expanding the Ubiquity Dollar’s utility beyond traditional DeFi use cases.
-* Amplify the **reach and functionality** of our solutions across the metaverse and beyond.
+1. Create the world's first **sovereign**, **scalable** and **secure crypto dollar,** the Ubiquity Dollar.
+2. Serve as the stablecoin of crypto gaming.
+3. Give back to the web3 developer ecosystem by creating open-source developer tooling.
+4. Support existing web 2.0 organizations looking to enter the web3 ecosystem.
+5. Support community driven product design and development.
+6. Make DeFi accessible to the next billion users, with a focus on excellent user experience and product design.
