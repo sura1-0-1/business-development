@@ -7,7 +7,7 @@ Browse Available Tasks for opportunities that match your skills. View task detai
 * Sort tasks by **Price, Time, Priority,** or **Recent Activity**.
 * Logging in with GitHub enables real-time text filtering by keyword.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the task that much to your skill and check out the issue in GitHub UI.
 
@@ -15,17 +15,17 @@ Select the task that much to your skill and check out the issue in GitHub UI.
 
 * Open Task that fit to your skill
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Use / commands to register and assign your self to the task.
 
 use /help command to displays a list of all available commands and their descriptions.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 this are all available list of commands.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 then, you can use the list of commands to interact  Ubiquity OS.
 

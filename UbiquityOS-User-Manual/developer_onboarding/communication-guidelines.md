@@ -6,11 +6,11 @@ The **DevPool Communication Guidelines** are designed to ensure a **productive a
 
 1.  **Silence is Golden**:
 
-    * **Focus on Quality**: Maintain a high **signal-to-noise ratio** in the Telegram group chat. Conversations should remain focused and relevant.
-    * **Chattier Discussions**: GitHub issues and discussions are more forgiving for casual or detailed conversations compared to Telegram.
-    * **Self-Assign Tasks**: Do **not ask for work** in the DevPool chat. Instead, review open issues on GitHub, self-assign by drafting a pull request, and start contributing.
-    * **No Direct Messages**: Avoid sending direct messages to core team members on Telegram. Only after completing your first bounty and receiving payment might a core team member initiate direct communication.
-    * **No External Job Offers**: Avoid using the DevPool chat to promote unrelated jobs or projects. External job offers will be removed.
+    * Maintain a high **signal-to-noise ratio** in the Telegram group chat. Conversations should remain focused and relevant.
+    * GitHub issues and discussions are more forgiving for casual or detailed conversations compared to Telegram.
+    * Do **not ask for work** in the DevPool chat. Instead, review open issues on GitHub, self-assign by drafting a pull request, and start contributing.
+    * Avoid sending direct messages to core team members on Telegram. Only after completing your first bounty and receiving payment might a core team member initiate direct communication.
+    * Avoid using the DevPool chat to promote unrelated jobs or projects. External job offers will be removed.
 
 
 2.  &#x20;**Partner Program**:
@@ -27,15 +27,13 @@ The **DevPool Communication Guidelines** are designed to ensure a **productive a
 **Introduction Tips**:\
 Writing an introduction in the group chat is welcome but should be thoughtful and distinctive.
 
-* **Bad Example**: Generic messages like:
+* Generic messages like:
   * “Professional blockchain developer.”
   * “Talented dev looking for a job.”
-* **Good Example**: Personalized, relevant introductions like:
+* Personalized, relevant introductions like:
   * “gm, Solidity dev here, worked at X before.”
 
 **Stand Out**: Think about what others might have already shared in the chat. If your message isn’t **unique**, it’s best not to send it.
-
-
 
 🧠 In conclusion, take a moment to think about what the other candidates before you might have already sent in the group chat.
 

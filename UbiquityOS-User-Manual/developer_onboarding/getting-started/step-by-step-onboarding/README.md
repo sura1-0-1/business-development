@@ -15,15 +15,15 @@ By following these steps, contributors can effectively engage with the  DevPool.
 
 Then, go to the devpool directory and log it with your GitHub account.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Next, GitHub prompt you to register to the DevPool Registration&#x20;
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
 Fill out the information such as username and Password.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Finally, authenticate the ubiquity bot to access you personal date for registration. &#x20;
 
@@ -36,7 +36,7 @@ Browse Available Tasks for opportunities that match your skills. View task detai
 * Sort tasks by **Price, Time, Priority,** or **Recent Activity**.
 * Logging in with GitHub enables real-time text filtering by keyword.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 select the task that much to your skill and check out the issue in GitHub UI.
 
@@ -44,17 +44,17 @@ select the task that much to your skill and check out the issue in GitHub UI.
 
 * Open Task that fit to your skill
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Use / commands to register and assign your self to the task.
 
 use /help command to displays a list of all available commands and their descriptions.
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 this are all available list of commands&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 then, you can use&#x20;
 
