@@ -24,6 +24,7 @@
     * [Available Payment Methods](developer_onboarding/cash-out/available-payment-methods/README.md)
       * [Wallets Supporting Genesis Chain](developer_onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
       * [Wallets Supporting xDai](developer_onboarding/cash-out/available-payment-methods/wallets-supporting-xdai.md)
+    * [Import Wallet to Meta Mask](developer_onboarding/cash-out/import-wallet-to-meta-mask.md)
 * [Plugin-Development](plugin-development/README.md)
   * [UbiquityOS Plugin Installer](plugin-development/ubiquityos-plugin-installer.md)
   * [plugins](plugin-development/plugins/README.md)

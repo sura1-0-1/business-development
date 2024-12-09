@@ -1,21 +1,20 @@
 # Cash Out Procedures
 
-
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
 **Step 1: Verify Your Details**
 
 1. Review the task name, user name, issue number, and contribution details displayed on the Task page. Ensure that your details are matched on the task you completed.
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 2. Confirm your payment amount .
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2: Connect Your Wallet**
 
 
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Connect Wallet**.
    * Choose your preferred wallet provider (e.g., Meta Mask, Wallet Connect).
@@ -25,19 +24,18 @@
 
 1. Review the transaction summary, including:
    * Payment amount in tokens or currency.
-   * Network fees (if applicable).
+   * Network fees.
 2. Click **"Collect"** to initiate the transaction.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 4: Confirm the Transaction**
 
-1. Approve the payment request in your wallet.
-2. Wait for the confirmation message indicating that the payment is processed.
+Approve the payment request in your wallet and wait for the confirmation message indicating that the payment is processed.
 
 ### **Step 5: Verify Payment Receipt**
 
-1. Check your wallet to confirm the payment has been received.
-   * Payment should reflect in your wallet within a few minutes.
-2. If you face any issues, contact the **Support team or discuss on** GitHub discussion thread.
+Check your wallet to confirm the payment has been received. Payment should reflect in your wallet within a few minutes.
+
+If you face any issues, contact the **Support team or discuss on** GitHub discussion thread.
 

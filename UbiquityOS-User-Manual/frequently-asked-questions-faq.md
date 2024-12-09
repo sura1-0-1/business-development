@@ -11,11 +11,21 @@ coverY: 0
 
 **General Information**
 
-* What is the purpose of the platform?
+* **What is the purpose of the platform ?**
 
+The platform aims to revolutionize task management and collaboration by automating task allocation, incentivizing open-source contributions, and fostering a meritocratic ecosystem. It enables organizations, particularly DAOs, to maximize productivity, streamline workflows, and achieve impactful results by connecting them with skilled developers.
 
+* **How can developers benefit from this service ?**
 
-* How can developers benefit from this service?
+1, Earn cryptocurrency by completing tasks and contributing to projects.
+
+2, Work on diverse projects aligned with your interests, enhancing your expertise.
+
+3, Showcase task completions and contributions to grow your profile and stand out in the developer community.
+
+4, Access tasks suited to your skill set, eliminating the hassle of searching for work.
+
+5, Contribute to open-source projects, advancing both your career and the broader tech ecosystem.
 
 
 
@@ -68,5 +78,5 @@ coverY: 0
 
 
 
-    * Are there fees associated with cashing out?
+    * Are there fees associated with cashing out ?
 
