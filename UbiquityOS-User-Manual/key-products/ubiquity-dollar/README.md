@@ -1,6 +1,6 @@
 # Ubiquity Dollar
 
-## Overview
+### Overview
 
 The **Ubiquity Dollar (uAD)** is a fully collateralized stablecoin and the pilot DeFi primitive of **Ubiquity DAO**. Designed to ensure **price stability** and **reliability**, it plays a critical role in advancing the DAO economy and the broader decentralized finance ecosystem. It is engineered to maintain a stable $1 peg through carefully designed inflation and debt cycle mechanisms while allowing for seamless adaptability and scalability.
 
@@ -22,9 +22,9 @@ By focusing on crypto gaming and the metaverse as initial growth areas, Ubiquity
   * A sustainable and developer-friendly infrastructure for long-term growth.
 * Built on principles of **simplicity** and **openness**, the protocol is designed to earn the trust of its users through clear communication and accessible documentation.
 
-#### **Further Information**
+### **Further Information**
 
-For those seeking technical details:
+For  technical details:
 
 * Visit the [Ubiquity Smart Contracts](https://github.com/ubiquity/ubiquity-dollar-development/wiki/18.-Smart-Contracts) page, to explore the code behind the protocol.
 * Review the [Tokenomics](https://github.com/ubiquity/ubiquity-dollar-development/wiki/05.-Tokenomics) overview for an in-depth understanding of the economic mechanisms and smart contract architecture and [uAD token](https://github.com/ubiquity/ubiquity-dollar-development/wiki/08.-uAD) documentation pages.
