@@ -41,7 +41,7 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
   - [**How UbiquityOS Works**](UbiquityOS-User-Manual/Partner-Onboarding/how-ubiquityos-works.mdmd)
 - [**Plugin Development**]()
   - [_**Best Practices**_](UbiquityOS-User-Manual/Plugin-Development/Best-Practices.md)
-- [**FAQs**](UbiquityOS-User-Manual/frequently-asked-questions-faq.md)
+- [**FAQs**](/UbiquityOS-User-Manual/frequently-asked-questions-faq.md)
 
 ---
 
