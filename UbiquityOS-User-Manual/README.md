@@ -14,34 +14,34 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 
 - [**Introduction**](Introduction.md)
 - [**Key Products**](./key-products/README.md)
-  - [**Ubiquity Dollar**](UbiquityOS-User-Manual/key-products/ubiquity-dollar/README.md)
-  - [**Ubiquity OS**](UbiquityOS-User-Manual/key-products/ubiquity-os/README.md)
-- [**Our Vision**](UbiquityOS-User-Manual/our-vision.md)
-- [**Mission**](UbiquityOS-User-Manual/mission.md)
+  - [**Ubiquity Dollar**](./key-products/ubiquity-dollar/README.md)
+  - [**Ubiquity OS**](./key-products/ubiquity-os/README.md)
+- [**Our Vision**](/our-vision.md)
+- [**Mission**](/mission.md)
 
-- [**Developer Onboarding**](UbiquityOS-User-Manual/Developer-Onboarding/Guide.md)
+- [**Developer Onboarding**](./Developer-Onboarding/Guide.md)
 
-  - [**Getting started**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/README.md)
-  - [**Step by Step Onboarding**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/step-by-step-onboarding/README.md)
-    - [**Setup DevPool Account**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
-    - [**Start Contributing**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
-    - [**Submit Solution**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/step-by-step-onboarding/tasks-management.md)
-  - [**Communication Guidelines**](/Developer_Onboarding/communication-guidelines.md)
-  - [**Cash Out**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/README.md)
+  - [**Getting started**](./Developer_Onboarding/getting-started/README.md)
+  - [**Step by Step Onboarding**](./Developer_Onboarding/getting-started/step-by-step-onboarding/README.md)
+    - [**Setup DevPool Account**](./Developer_Onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
+    - [**Start Contributing**](./Developer_Onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
+    - [**Submit Solution**](./Developer_Onboarding/getting-started/step-by-step-onboarding/tasks-management.md)
+  - [**Communication Guidelines**](./Developer_Onboarding/communication-guidelines.md)
+  - [**Cash Out**](./Developer_Onboarding/cash-out/README.md)
 
-    - [**Cash Out Procedures**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/cash-out-procedures.md)
-    - [**Available Payment Methods**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/available-payment-methods/README.md)
+    - [**Cash Out Procedures**](./Developer_Onboarding/cash-out/cash-out-procedures.md)
+    - [**Available Payment Methods**](./Developer_Onboarding/cash-out/available-payment-methods/README.md)
 
-      - [**Wallets Supporting Genesis Chain**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
-      - [**Wallets Supporting xDai**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/available-payment-methods/wallets-supporting-xdai.md)
+      - [**Wallets Supporting Genesis Chain**](./Developer_Onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
+      - [**Wallets Supporting xDai**](./Developer_Onboarding/cash-out/available-payment-methods/wallets-supporting-xdai.md)
 
-  - [**Import Wallet to Meta Mask**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/import-wallet-to-meta-mask.md)
+  - [**Import Wallet to Meta Mask**](./Developer_Onboarding/cash-out/import-wallet-to-meta-mask.md)
 
-- [**Partner Onboarding**](UbiquityOS-User-Manual/partner-onboarding/README.md)
-  - [**How UbiquityOS Works**](UbiquityOS-User-Manual/Partner-Onboarding/how-ubiquityos-works.mdmd)
+- [**Partner Onboarding**](./partner-onboarding/README.md)
+  - [**How UbiquityOS Works**](./Partner-Onboarding/how-ubiquityos-works.mdmd)
 - [**Plugin Development**]()
-  - [_**Best Practices**_](UbiquityOS-User-Manual/Plugin-Development/Best-Practices.md)
-- [**FAQs**](/UbiquityOS-User-Manual/frequently-asked-questions-faq.md)
+  - [_**Best Practices**_](./Plugin-Development/Best-Practices.md)
+- [**FAQs**](./frequently-asked-questions-faq.md)
 
 ---
 
