@@ -13,7 +13,7 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 ## 📖 **Table of Contents**
 
 - [**Introduction**](Introduction.md)
-- [**Key Products**](key-products/README.md)
+- [**Key Products**](./key-products/README.md)
   - [**Ubiquity Dollar**](UbiquityOS-User-Manual/key-products/ubiquity-dollar/README.md)
   - [**Ubiquity OS**](UbiquityOS-User-Manual/key-products/ubiquity-os/README.md)
 - [**Our Vision**](UbiquityOS-User-Manual/our-vision.md)
