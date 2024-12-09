@@ -1,6 +1,6 @@
 # Our Vision
 
-#### Our Vision
+
 
 ## "_**Without stability, we have nothing.**_"
 
