@@ -2,6 +2,8 @@
 
 * [Ubiquity DAO User Manual](README.md)
 * [Introduction](Introduction.md)
+* [Our Vision](our-vision.md)
+* [Mission](mission.md)
 * [Key Products](key-products/README.md)
   * [Ubiquity Dollar](key-products/ubiquity-dollar/README.md)
     * [Key Features of the Ubiquity Dollar](key-products/ubiquity-dollar/key-features-of-the-ubiquity-dollar.md)
@@ -9,8 +11,6 @@
     * [Usage and Integration](key-products/ubiquity-dollar/usage-and-integration.md)
   * [Ubiquity OS DevPool](key-products/ubiquity-os/README.md)
     * [Key Features of the DevPool](key-products/ubiquity-os/key-features-of-the-devpool.md)
-* [Our Vision](our-vision.md)
-* [Mission](mission.md)
 * [UbiquityOS for Developers](Developer_Onboarding/README.md)
   * [Getting Started](developer_onboarding/getting-started/README.md)
     * [Overview](developer_onboarding/getting-started/overview.md)
