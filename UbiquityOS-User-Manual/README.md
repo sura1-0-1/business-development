@@ -13,7 +13,7 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 ## 📖 **Table of Contents**
 
 - [**Introduction**](Introduction.md)
-- [**Key Products**](UbiquityOS-User-Manual/key-products/README.md)
+- [**Key Products**](key-products/README.md)
   - [**Ubiquity Dollar**](UbiquityOS-User-Manual/key-products/ubiquity-dollar/README.md)
   - [**Ubiquity OS**](UbiquityOS-User-Manual/key-products/ubiquity-os/README.md)
 - [**Our Vision**](UbiquityOS-User-Manual/our-vision.md)
@@ -26,7 +26,7 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
     - [**Setup DevPool Account**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
     - [**Start Contributing**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
     - [**Submit Solution**](UbiquityOS-User-Manual/Developer_Onboarding/getting-started/step-by-step-onboarding/tasks-management.md)
-  - [**Communication Guidelines**](UbiquityOS-User-Manual/Developer_Onboarding/communication-guidelines.md)
+  - [**Communication Guidelines**](/Developer_Onboarding/communication-guidelines.md)
   - [**Cash Out**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/README.md)
 
     - [**Cash Out Procedures**](UbiquityOS-User-Manual/Developer_Onboarding/cash-out/cash-out-procedures.md)
