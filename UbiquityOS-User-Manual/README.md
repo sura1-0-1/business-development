@@ -15,13 +15,13 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 - [**Introduction**](Introduction.md)
 - [**Key Products**](./key-products/README.md)
   - [**Ubiquity Dollar**](./key-products/ubiquity-dollar/README.md)
-  - [**Ubiquity OS**](../key-products/ubiquity-os/README.md)
+  - [**Ubiquity OS**](./key-products/ubiquity-os/README.md)
 - [**Our Vision**](/our-vision.md)
 - [**Mission**](/mission.md)
 
 - [**Developer Onboarding**](./Developer-Onboarding/Guide.md)
 
-  - [**Getting started**](../Developer_Onboarding/getting-started/README.md)
+  - [**Getting started**](./Developer_Onboarding/getting-started/README.md)
   - [**Step by Step Onboarding**](../Developer_Onboarding/getting-started/step-by-step-onboarding/README.md)
     - [**Setup DevPool Account**](../Developer_Onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
     - [**Start Contributing**](../Developer_Onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
