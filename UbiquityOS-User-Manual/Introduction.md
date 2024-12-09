@@ -29,4 +29,4 @@ Collaborating with pioneering protocols and chains that power Ubiquity's ecosyst
 
 Join us as we continue to build a dynamic and sustainable ecosystem for DAOs, pushing the boundaries of what decentralized finance can achieve. Be part of a revolutionary journey that shapes the future of governance and community empowerment in the digital age.
 
-For more information, explore our Get Started page or visit our FAQ section to discover how you can be a part of this exciting venture.
+For more information, explore our [**Docs**](https://github.com/ubiquity/ubiquity-dollar/wiki) page or visit our [**FAQ**](./frequently-asked-questions-faq.md) section to discover how you can be a part of this exciting venture.
