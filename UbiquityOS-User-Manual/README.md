@@ -21,11 +21,11 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 
 - [**Developer Onboarding**](./Developer-Onboarding/Guide.md)
 
-  - [**Getting started**](./Developer_Onboarding/getting-started/README.md)
-  - [**Step by Step Onboarding**](./Developer_Onboarding/getting-started/step-by-step-onboarding/README.md)
-    - [**Setup DevPool Account**](./Developer_Onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
-    - [**Start Contributing**](./Developer_Onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
-    - [**Submit Solution**](./Developer_Onboarding/getting-started/step-by-step-onboarding/tasks-management.md)
+  - [**Getting started**](../Developer_Onboarding/getting-started/README.md)
+  - [**Step by Step Onboarding**](../Developer_Onboarding/getting-started/step-by-step-onboarding/README.md)
+    - [**Setup DevPool Account**](../Developer_Onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
+    - [**Start Contributing**](../Developer_Onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
+    - [**Submit Solution**](../Developer_Onboarding/getting-started/step-by-step-onboarding/tasks-management.md)
   - [**Communication Guidelines**](./Developer_Onboarding/communication-guidelines.md)
   - [**Cash Out**](./Developer_Onboarding/cash-out/README.md)
 
