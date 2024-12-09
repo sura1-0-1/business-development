@@ -67,7 +67,7 @@ We welcome contributions to improve this manual. Here's how you can help:
 
 ## 📩 **Support**
 
-If you encounter any issues or have questions, check out the [FAQs](/frequently-asked-questions-faq.md) or contact our support team at Ubiquity Dev chat group and [Discord server](https://discord.com/invite/SjymJ5maJ4).
+If you encounter any issues or have questions, check out the [FAQs](/frequently-asked-questions-faq.md) or contact our support team at [Ubiquity Dev chat group](https://t.me/UbiquityDAO) and [Discord server](https://discord.com/invite/SjymJ5maJ4).
 
 ---
 
