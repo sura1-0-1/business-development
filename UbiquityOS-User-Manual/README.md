@@ -64,7 +64,7 @@ We welcome contributions to improve this manual. Here's how you can help:
 
 ## 📩 **Support**
 
-If you encounter any issues or have questions, check out the [FAQs](broken-reference) or contact our support team at **@.com**.
+If you encounter any issues or have questions, check out the [FAQs](broken-reference) or contact our support team at  Ubiquity Dev chat group.
 
 ***
 

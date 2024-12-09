@@ -4,24 +4,24 @@ coverY: 0
 
 # Introduction
 
-**Welcome to Ubiquity DAO**
+## **Welcome to Ubiquity DAO**
 
 Ubiquity is a Decentralized Autonomous Organization (DAO) building products and services on Ethereum which leverage our flagship product, the Ubiquity Dollar (uAD). The DAO is committed to making the Ubiquity Dollar a cornerstone of the metaverse economy.
 
 Founded in November 2020, Ubiquity DAO is a pioneering force in the world of decentralized finance and digital economies. Our mission is to become the bank of the metaverse, delivering innovative solutions and tools that transform the way decentralized autonomous organizations (DAOs) operate.
 
-#### Why Ubiquity DAO?
+## Why Ubiquity DAO?
 
-* **Bank of the Metaverse:** We are positioning ourselves as a cornerstone of financial services within virtual environments, ensuring that transactions and operations are robust and secure.
-* **Open-Source Commitment:** Our dedication to open-source innovation invites global developers to contribute and grow with us, fostering continuous improvement and adaptation to emerging needs.
+* We are positioning ourselves as a cornerstone of financial services within virtual environments, ensuring that transactions and operations are robust and secure.
+* Our dedication to open-source innovation invites global developers to contribute and grow with us, fostering continuous improvement and adaptation to emerging needs.
 
-### Our Investors
+## Our Investors
 
 Supported by industry leaders who believe in the future of decentralized finance and governance.
 
 <figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-### Partners and Integrations
+## Partners and Integrations
 
 Collaborating with pioneering protocols and chains that power Ubiquity's ecosystem.
 
