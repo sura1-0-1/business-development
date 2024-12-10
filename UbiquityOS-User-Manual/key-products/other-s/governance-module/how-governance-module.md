@@ -2,11 +2,11 @@
 
 The **Governance Module** in the Ubiquity ecosystem is central to enabling decentralized decision-making and managing the lifecycle of proposals.&#x20;
 
-The governance system allows token holders to propose, discuss, vote, and implement changes within the Ubiquity ecosystem. This ensures community-driven development and prioritizes ecosystem health and stability.
+The governance system allows token holders to propose, **discuss**, **vote**, and **implement changes** within the Ubiquity ecosystem. This ensures community-driven development and prioritizes ecosystem health and stability.
 
 Governance within the Ubiquity ecosystem operates across **four distinct phases**, designed to progressively transition from centralized decision-making to full community-driven governance. Each phase serves a specific purpose in **refining**, **implementing**, and **executing proposals** that benefit the ecosystem.
 
-**Four key phases**:
+## **Four key phases**:
 
 ## **1, Rapid Prototyping Period:**
 
@@ -16,15 +16,15 @@ This stage lasts approximately one month, but this may vary based on the project
 
 ## **2, Cool Off Period**
 
-The Cool Off Period is to introduce community feedback into the decision-making process. During this period, the Ubiquity team will maintain exclusive deployment privileges, ensuring that all proposed changes are subject to a transparent community discussion on the project’s forums. This approach allows for thorough vetting and ensures that the community plays an active role in discussions, providing feedback, and engaging with the initial stages of governance processes.&#x20;
+The **Cool Off Period** is to introduce community feedback into the decision-making process. During this period, the Ubiquity team will maintain exclusive deployment privileges, ensuring that all proposed changes are subject to a transparent community discussion on the project’s forums. This approach allows for thorough vetting and ensures that the community plays an active role in discussions, providing feedback, and engaging with the initial stages of governance processes.&#x20;
 
-The duration of the Cool Off Period is estimated to be around three months, although there is flexibility to adjust this timeframe based on the project's needs.
+The duration of the Cool Off Period is estimated to be around **three months**, although there is flexibility to adjust this timeframe based on the project's needs.
 
 ## **3, Fully Decentralized Governance**
 
 Fully Decentralized Governance is to transition to a governance model that is entirely driven by the community. Under this model, control lies in the hands of the community, as proposals are created, debated, and executed based on the outcomes of community voting.&#x20;
 
-Voting power within this framework is determined by the staking of UBQ tokens, where staked governance tokens dictate the weight of each vote. Additionally, a duration multiplier is applied, which means that longer staking periods result in greater voting power, following a predefined multiplier curve.&#x20;
+Voting power within this framework is determined by the staking of **UBQ** tokens, where staked governance tokens dictate the weight of each vote. Additionally, a duration multiplier is applied, which means that longer staking periods result in greater voting power, following a predefined multiplier curve.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -94,15 +94,15 @@ If the option “**Make no change**” wins, the Consensus Check topic should be
 
 ### **3, Tender Process**:&#x20;
 
-The Tender Process is designed to identify the most capable entity to implement a proposed initiative effectively. To achieve this objective, a mechanism is established wherein a public bidding process is opened, allowing applicants to submit detailed proposals. These proposals are required to outline essential components, including timelines, success criteria, requested subsidies, and penalty terms. Once the bids are submitted, the community engages in a voting process to rank the proposals based on merit, with the top-ranked applicant ultimately selected as the Implementation Party.&#x20;
+The **Tender Process** is designed to identify the most capable entity to implement a proposed initiative effectively. To achieve this objective, a mechanism is established wherein a public bidding process is opened, allowing applicants to submit detailed proposals. These proposals are required to outline essential components, including timelines, success criteria, requested subsidies, and penalty terms. Once the bids are submitted, the community engages in a voting process to rank the proposals based on merit, with the top-ranked applicant ultimately selected as the Implementation Party.&#x20;
 
 The tender begins after the Consensus check, and applicants can submit their proposals for implementation. Those parameters include (but are not limited to):
 
-* Bit for the implementation
-* Deadline
-* Success criteria
-* Request for penalty amount subsidy
-* Request for audit subsidy
+* **Bit for the implementation**
+* **Deadline**
+* **Success criteria**
+* **Request for penalty amount subsidy**
+* **Request for audit subsidy**
 
 This party is then required to stake a penalty deposit or secure subsidies from their supporters to ensure commitment to the project. If the selected Implementation Party fails to meet the agreed-upon conditions, the opportunity does not end there; instead, it cascades to the next-ranked bid, or the process restarts if necessary. The outcome of this process is that the winning bid progresses to the Governance Proposal stage, where it can be formally approved and set in motion. Through this structured approach, the Tender Process ensures that the most qualified entities are chosen to carry out community-backed initiatives while promoting transparency and accountability.
 
@@ -118,7 +118,7 @@ Once the code is audited and ready, a final voting period of five days is initia
 
 The implementation party writes the code for the proposal. All proposed code should be audited by a professional auditor. This auditing process could be paid or reimbursed by the community treasury (audit subsidy)
 
-Once the proposal is active, a 5 day voting period is started. Ongoing discussions can take place in the community forum. If the proposal passes successfully, a two-day timelock will follow before the proposed code is executed. If the proposal does not pass, one of two things happen:
+Once the proposal is active, a **5 day voting period** is started. Ongoing discussions can take place in the community forum. If the proposal passes successfully, a two-day timelock will follow before the proposed code is executed. If the proposal does not pass, one of two things happen:
 
 * The community can vote on a time extension in order for the implementation party to re-calibrate its proposal
 * The community rejects the proposal, any penalties defined are slashed from the implementation party’s deposit and the Tender process begins anew
