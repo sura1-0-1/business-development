@@ -4,7 +4,7 @@ When your lockup period is complete, you can withdraw your liquidity from the Ub
 
 ***
 
-## **1. Prepare Metamask**
+### **1. Prepare Metamask**
 
 To access your withdrawn liquidity, ensure the **uAD token** is added to your Metamask wallet:
 
