@@ -7,7 +7,7 @@ Browse Available Tasks for opportunities that match your skills. View task detai
 * Sort tasks by **Price, Time, Priority,** or **Recent Activity**.
 * Logging in with GitHub enables real-time text filtering by keyword.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Select the task that much to your skill and check out the issue in GitHub UI.
 

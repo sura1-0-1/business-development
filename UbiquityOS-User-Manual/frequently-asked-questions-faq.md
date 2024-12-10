@@ -80,3 +80,11 @@ The platform aims to revolutionize task management and collaboration by automati
 
     * Are there fees associated with cashing out ?
 
+
+
+    * Why burn uAD for uCR NFT when I can burn uAD for uCR?
+
+    **x** amount of **uAD** can be burned for at most y amount of uAR in return, where y < x is always true.
+
+    In the case of **uCR NFT**, it is guaranteed that burning **x** amount of uAD will yield _at least_ **x** amount of uCR NFT. Usually, the uCR NFT will be issued at a premium, so **x** uAD will usually yield **x + c** uCR NFT.
+

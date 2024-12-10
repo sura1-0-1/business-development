@@ -8,7 +8,7 @@
 
 2. Confirm your payment amount .
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2: Connect Your Wallet**
 

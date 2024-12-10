@@ -1,4 +1,4 @@
-# Governance (UBQ Token)
+# Governance Module
 
 
 
@@ -10,14 +10,14 @@ The UBQ token is a key component of the Ubiquity ecosystem, representing the gov
 
 UBQ is a perpetually inflationary ERC20 token, created to serve two primary objectives:
 
-1. **To drive adoption**: Encouraging wider use and integration of Ubiquity's products.
-2. **To enhance product functionality**: Strengthening the overall ecosystem and its offerings.
+1. **To drive adoption by e**ncouraging wider use and integration of Ubiquity's products.
+2. **To enhance product functionality by s**trengthening the overall ecosystem and its offerings.
 
-The UBQ token has no predefined mint schedule but is released when circumstances require it (some cases will be shown in this document for uAD). To avoid hyperinflation of the UBQ token, each product in the Ubiquity system that is allowed to mint governance tokens will be subject to a product-wide penalty depending on the total amount of UBQ tokens minted by the protocol.&#x20;
+The **UBQ token** has no predefined mint schedule but is released when circumstances require it (some cases will be shown in this document for uAD). To avoid hyperinflation of the UBQ token, each product in the Ubiquity system that is allowed to mint governance tokens will be subject to a product-wide penalty depending on the total amount of UBQ tokens minted by the protocol.&#x20;
 
 This penalty is defined by the following curve:
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 The minting of UBQ tokens does not follow a predetermined schedule. Instead, new tokens are generated when necessary based on product requirements. However, to prevent hyperinflation, the system introduces a product-wide penalty for excessive UBQ minting, which is determined by a specific curve. Early stages of a product may see no penalty, but as the total minted tokens increase (e.g., surpassing 47 million), the penalty rate will rise, discouraging excessive inflation.
 

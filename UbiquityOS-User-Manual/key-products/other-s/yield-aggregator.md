@@ -6,7 +6,7 @@ The Yield Aggregator is a powerful tool within the Ubiquity ecosystem, designed 
 
 
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 The core advantage of the Yield Aggregator is that users receive double the yield they would get from traditional vault strategies, in the form of uCR tokens. These perpetual debt tokens can be redeemed for uAD once the stablecoin trades above $1. The custom yield strategies used by the aggregator are carefully vetted through Ubiquity governance, ensuring they are safe and efficient.
 
