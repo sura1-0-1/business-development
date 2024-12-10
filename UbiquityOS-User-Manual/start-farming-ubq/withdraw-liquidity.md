@@ -10,7 +10,7 @@ To access your withdrawn liquidity, ensure the **uAD token** is added to your Me
 
 ### **Steps to Add uAD Token to Metamask:**
 
-#### **1, Open MetaMask**:
+### **1, Open MetaMask**:
 
 Launch your MetaMask extension or mobile app.
 
