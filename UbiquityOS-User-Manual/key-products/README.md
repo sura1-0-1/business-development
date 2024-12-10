@@ -16,8 +16,6 @@ Supporting this core is the **Yield Aggregator**, which empowers users by maximi
    The **Ubiquity Governance System** serves as the backbone of the ecosystem, empowering token holders to actively participate in decision-making and shape the protocol's evolution through a decentralized and transparent process.
 5. **Protocol Treasury**\
    The **Ubiquity Treasury** is a shared financial resource dedicated to funding ecosystem development, enabling integrations, and distributing revenue generated through partnerships and staking programs to foster sustainable growth.
-6. **Transfer Hooks**\
-   The **Transfer Hooks** mechanism provides real-time monitoring and control over transactions, ensuring stability and enabling swift responses to market dynamics within the Ubiquity ecosystem.
-7. **uCR NFTs**\
+6. **uCR NFTs**\
    **uCR NFTs** are debt coupon NFTs created to manage the protocol's debt cycles. These NFTs allow for secondary market trading, providing liquidity options for holders before they can redeem them for uAD.
 

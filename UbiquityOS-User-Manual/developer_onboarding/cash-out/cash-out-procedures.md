@@ -8,13 +8,13 @@
 
 2. Confirm your payment amount .
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 2: Connect Your Wallet**
 
 
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Connect Wallet**.
    * Choose your preferred wallet provider (e.g., Meta Mask, Wallet Connect).
@@ -27,7 +27,7 @@
    * Network fees.
 2. Click **"Collect"** to initiate the transaction.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Step 4: Confirm the Transaction**
 

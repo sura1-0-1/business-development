@@ -4,17 +4,17 @@ Welcome to the UbiquityOS Developers Manual. Use this guide to maximize your exp
 
 ## 📖 **Table of Contents**
 
-### [Getting Started](broken-reference)
-
-* Overview
-* Step by Step Onboarding&#x20;
-  * Setup DevPool Account&#x20;
-  * Start Contributing&#x20;
-  * Submit Solution
+* ### Getting Started
+  * Overview
+  * Step by Step Onboarding&#x20;
+    * Setup DevPool Account&#x20;
+    * Start Contributing&#x20;
+    * Submit Solution
 * Communication Guidelines
 * Cash Out
   * Cash Out Procedures
   * Available Payment Methods
-* [FAQ](faq/index.md)
+  * Import Wallet to Meta Mask
+* Plugin-development
 
 The **UbiquityOS DevPool** is more than just a workplace. it's a dynamic ecosystem where innovation meets collaboration, enabling contributors to thrive in a decentralized environment.

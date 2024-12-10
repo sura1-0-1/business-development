@@ -9,7 +9,7 @@ coverY: 0
 
 # Frequently Asked Questions (FAQ)
 
-**General Information**
+### &#x20;**General Information**
 
 * **What is the purpose of the platform ?**
 
@@ -29,7 +29,7 @@ The platform aims to revolutionize task management and collaboration by automati
 
 
 
-**Account and Wallet**
+### &#x20;**Account and Wallet**
 
 * How do I verify my account?
 
@@ -37,30 +37,6 @@ The platform aims to revolutionize task management and collaboration by automati
 
 * What wallets are supported for payments?
 
-
-
-**Task Creation**
-
-* How can I create a task?
-* Are there any restrictions on task types?
-
-**Plugins**
-
-* What plugins are available?
-
-
-
-* Can I develop my own plugins?
-
-
-
-*   Pricing and Management
-
-    * How do I set pricing for tasks?
-
-
-
-    * What if I need to update a task?
 
 
 *   Contribution and Solutions
@@ -72,19 +48,14 @@ The platform aims to revolutionize task management and collaboration by automati
     * What are the guidelines for submitting solutions?
 
 
-*   Payment
 
-    * How do I cash out my earnings?
+### **Payment**
 
-
-
-    * Are there fees associated with cashing out ?
+* How do I cash out my earnings?
 
 
 
-    * Why burn uAD for uCR NFT when I can burn uAD for uCR?
+* Are there fees associated with cashing out ?
 
-    **x** amount of **uAD** can be burned for at most y amount of uAR in return, where y < x is always true.
 
-    In the case of **uCR NFT**, it is guaranteed that burning **x** amount of uAD will yield _at least_ **x** amount of uCR NFT. Usually, the uCR NFT will be issued at a premium, so **x** uAD will usually yield **x + c** uCR NFT.
 

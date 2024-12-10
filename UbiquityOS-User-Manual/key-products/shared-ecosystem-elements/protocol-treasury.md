@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Treasury Module serves as the financial backbone of the Ubiquity ecosystem. Its primary objectives are to fund both the development of new products and the enhancement of existing ones. Additionally, it acts as a stabilizing force for the ecosystem by deploying its assets effectively.
+The **Treasury** Module serves as the financial backbone of the Ubiquity ecosystem. Its primary objectives are to fund both the development of new products and the enhancement of existing ones. Additionally, it acts as a stabilizing force for the ecosystem by deploying its assets effectively.
 
 ## **Key Features**
 

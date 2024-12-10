@@ -26,11 +26,11 @@ Fully Decentralized Governance is to transition to a governance model that is en
 
 Voting power within this framework is determined by the staking of **UBQ** tokens, where staked governance tokens dictate the weight of each vote. Additionally, a duration multiplier is applied, which means that longer staking periods result in greater voting power, following a predefined multiplier curve.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Voting power** is determined by:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Where**
 

@@ -14,7 +14,7 @@ The purpose of these credits is to incentivize the purchase of debt right from t
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 To effectively ensure the contraction of uAD supply during a debt cycle, it's critical to design incentives that align with the desired outcomes: encouraging participants to burn uAD early, consistently, and until the TWAP (Time-Weighted Average Price) reaches 1.&#x20;
 
