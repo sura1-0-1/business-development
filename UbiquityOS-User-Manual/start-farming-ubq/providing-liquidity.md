@@ -6,7 +6,7 @@ Before you start, make sure you have some Ether in your Metamask wallet to cover
 
 To begin farming UBQ, you need to provide liquidity to the uAD pool on Curve. Here's how it works:
 
-### **Steps to Provide Liquidity:**
+### **Steps to Provide Liquidity**
 
 ### **1, Prepare Your Wallet:**
 

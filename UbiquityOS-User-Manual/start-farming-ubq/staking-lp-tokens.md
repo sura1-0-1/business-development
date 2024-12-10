@@ -11,7 +11,7 @@ Here's a table to help understand the different multipliers:
 Once again, make sure that your Metamask wallet is connected, this time to the staking dashboard of Ubiquity. It will automatically compute the gas fee, approve it, and stake your LP tokens in the smart contract.\
 
 
-## **Steps to Stake LP Tokens:**
+## **Steps to Stake LP Tokens**
 
 **1, Access the Staking Dashboard:**
 
