@@ -1,6 +1,6 @@
 # Cash Out Procedures
 
-**Step 1: Verify Your Details**
+### **Step 1: Verify Your Details**
 
 1. Review the task name, user name, issue number, and contribution details displayed on the Task page. Ensure that your details are matched on the task you completed.
 

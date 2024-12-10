@@ -22,7 +22,7 @@ Mobile app with a user-friendly interface for xDai. Connect to xDai using Wallet
 
 #### **5. Alpha Wallet**
 
-#### Mobile app tailored for Ethereum and xDai. Add xDai through Wallet Connect or manual RPC configuration. [alphawallet.com](https://alphawallet.com)
+Mobile app tailored for Ethereum and xDai. Add xDai through Wallet Connect or manual RPC configuration. [alphawallet.com](https://alphawallet.com)
 
 
 

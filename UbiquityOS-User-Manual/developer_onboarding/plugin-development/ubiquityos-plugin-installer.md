@@ -1,2 +1,0 @@
-# UbiquityOS Plugin Installer
-
