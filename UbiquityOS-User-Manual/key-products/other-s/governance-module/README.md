@@ -6,8 +6,6 @@ The Ubiquity Governance System is the core structure that empowers UBQ token hol
 
 The UBQ token plays a pivotal role in enabling this governance, allowing token holders to have a direct impact on key decisions, such as upgrades, parameter changes, and integrations, fostering a collaborative and decentralized environment.
 
-The UBQ token is a key component of the Ubiquity ecosystem, representing the governance power of the community and enabling participants to influence the direction and evolution of the DAO. Initially, the UBQ token had a supply of zero, with new tokens being minted as users engage with Ubiquity's products.
-
 UBQ is a perpetually inflationary ERC20 token, created to serve two primary objectives:
 
 1. **To drive adoption by e**ncouraging wider use and integration of Ubiquity's products.
@@ -21,7 +19,7 @@ This penalty is defined by the following curve:
 
 The minting of UBQ tokens does not follow a predetermined schedule. Instead, new tokens are generated when necessary based on product requirements. However, to prevent hyperinflation, the system introduces a product-wide penalty for excessive UBQ minting, which is determined by a specific curve. Early stages of a product may see no penalty, but as the total minted tokens increase (e.g., surpassing 47 million), the penalty rate will rise, discouraging excessive inflation.
 
-**Example Scenario**:
+**Example** :
 
 * **Product P2** rewards users with UBQ tokens for completing actions with no initial penalty.
 * **Product P1** has already minted 50 million UBQ tokens. For actions in P1, users will receive rewards that are subject to a penalty—51% in this case—reducing the effective amount of UBQ tokens awarded.
