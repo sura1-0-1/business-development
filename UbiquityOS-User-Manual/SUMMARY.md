@@ -16,6 +16,7 @@
     * [Yield Aggregator](key-products/other-s/yield-aggregator.md)
     * [Governance Module](key-products/other-s/governance-module/README.md)
       * [How Governance Module](key-products/other-s/governance-module/how-governance-module.md)
+      * [Governance Principles](key-products/other-s/governance-module/governance-principles.md)
     * [Protocol Treasury](key-products/other-s/protocol-treasury.md)
     * [Ubiquity Credits(uCR)](key-products/other-s/ubiquity-credits-ucr.md)
     * [Ubiquity Credits(uCR)NFT](key-products/other-s/ubiquity-credits-ucr-nft.md)
