@@ -8,7 +8,7 @@ The **Ubiquity Dollar (uAD)** is a fully collateralized stablecoin and the pilot
 
 A stable, sovereign, and scalable digital dollar positioned as the **reserve currency of DeFi**. As the **first polymorphic stablecoin**, uAD is engineered to address the challenges of stability, scalability, and security, essential for widespread adoption in the gaming and metaverse economies.
 
-By focusing on crypto gaming and the metaverse as initial growth areas, Ubiquity DAO is carving out a unique position for uAD while building a robust foundation for its broader ambition to drive DeFi adoption.
+Ubiquity DAO is carving out a unique position for uAD while building a robust foundation for its broader ambition to drive DeFi adoption.
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
