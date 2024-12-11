@@ -15,13 +15,13 @@ To begin farming UBQ, you need to provide liquidity to the UUSD pool on Curve. H
 
 ### 2, **Access the Curve Metapool:**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Go to the  [Ubiquity Dollar dashboard](http://uad.ubq.fi/) and click the **DEPOSIT** button for UUSD. this redirects you to the Curve Metapool interface, where you can add liquidity. You may also go to [crv.to](http://crv.to/) directly and search for UUSD.
 
 ### 3, Add Liquidity:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Connect your **Metamask wallet** to the Curve dApp. Once that is done, you can click the blue droplet (see below) to add liquidity to the UUSD pool. You can use either DAI or USDC. Add in your amount and click add liquidity. Approve your transaction on Metamask.
 

@@ -8,7 +8,7 @@ This section explains the process of claiming payment for completed tasks after 
 
 1. Ensure your **Pull Request (PR)** is merged by the repository maintainers.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Verify that the linked **GitHub Issue** is marked as **Completed**.
 

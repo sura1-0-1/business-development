@@ -10,7 +10,7 @@ A stable, sovereign, and scalable digital dollar positioned as the **reserve cur
 
 Ubiquity DAO is carving out a unique position for uAD while building a robust foundation for its broader ambition to drive DeFi adoption.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ### **Key Features of the Ubiquity Dollar**
 

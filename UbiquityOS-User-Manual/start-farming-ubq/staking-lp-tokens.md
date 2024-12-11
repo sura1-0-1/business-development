@@ -6,7 +6,7 @@ You can choose a minimum of 1 week to a max of 208 weeks, or 4 years. The longer
 
 Here's a table to help understand the different multipliers:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once again, make sure that your Metamask wallet is connected, this time to the staking dashboard of Ubiquity. It will automatically compute the gas fee, approve it, and stake your LP tokens in the smart contract.\
 
