@@ -1,35 +1,35 @@
 # Key Features of the Ubiquity Dollar
 
-The Ubiquity Dollar (uAD) represents a groundbreaking advancement in the realm of digital currencies, offering a unique blend of stability and innovation. With a fully collateralized framework, uAD stands as a reliable digital asset, providing foundational trust and utility across decentralized ecosystems. &#x20;
+The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm of digital currencies, offering a unique blend of stability and innovation. With a fully collateralized framework, uAD stands as a reliable digital asset, providing foundational trust and utility across decentralized ecosystems. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-### Key Features of uAD:
+### Key Features of UUSD:
 
 1.  **Collaterization and Modularity:**
 
     uAD is backed to ensure its value remains stable, even during market fluctuations. With built-in **transfer hooks** and **upgradeable smart contracts**, uAD can integrate new features and stabilization mechanisms as needed, without disrupting the protocol.
 2. **Inflation and Debt Cycle Management:**
-   *   **Inflation Cycle (uAD > $1):**
+   *   **Inflation Cycle (UUSD > $1):**
 
        When **uAD’s** price exceeds $1, new tokens are minted to reduce demand.
 
-       * Newly minted uAD is distributed to:
+       * Newly minted **UUSD** is distributed to:
          * **uCR and uCR NFT holders**
-         * **Bonded uAD holders**
+         * **Bonded UUSD holders**
          * **DEX liquidity providers**
          * **Protocol treasury**
-       * This mechanism reduces uAD’s price back to its pegged $1 value.
+       * This mechanism reduces UUSD’s price back to its pegged $1 value.
    *   **Debt Cycle (uAD < $1):**
 
        When uAD’s price drops below $1, holders are incentivized to burn uAD in exchange for **Ubiquity Credits (uCR)**.
 
        * **uCR Issuance:**
          * uCR is issued at a premium and redeemable 1:1 for uAD when the price recovers.
-         * This contraction of uAD supply increases its demand, restoring the $1 peg.
+         * This contraction of **UUSD** supply increases its demand, restoring the $1 peg.
 3.  **Polymorphic Architecture:**
 
-    The polymorphic design allows uAD to adapt to the evolving DeFi landscape, addressing challenges such as:
+    The polymorphic design allows **UUSD** to adapt to the evolving DeFi landscape, addressing challenges such as:
 
     * **Dynamic market conditions**
     * **Security threats**
@@ -38,7 +38,7 @@ The Ubiquity Dollar (uAD) represents a groundbreaking advancement in the realm o
 
     &#x20;**Compared to Competitors (Frax, MakerDAO):**
 
-    * uAD is designed to overcome the rigidity of traditional algorithmic stablecoins.
-    * Unlike competitors with fixed economic strategies, uAD’s flexibility ensures its resilience to changing DeFi dynamics.
+    * **UUSD** is designed to overcome the rigidity of traditional algorithmic stablecoins.
+    * Unlike competitors with fixed economic strategies, **UUSD’s** flexibility ensures its resilience to changing DeFi dynamics.
 
 Ubiquity Dollar integrated into a burgeoning ecosystem of products and services, such as **DevPool**, underscores its pivotal role in both **real-world** and **metaverse economies.** As we approach 2024, the protocol's redeployment emphasizes paramount security, adaptability for future enhancements, and a sustainable infrastructure, ensuring ongoing usability and growth

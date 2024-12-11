@@ -11,7 +11,7 @@ UBQ is a perpetually inflationary ERC20 token, created to serve two primary obje
 1. **To drive adoption by e**ncouraging wider use and integration of Ubiquity's products.
 2. **To enhance product functionality by s**trengthening the overall ecosystem and its offerings.
 
-The **UBQ token** has no predefined mint schedule but is released when circumstances require it (some cases will be shown in this document for uAD). To avoid hyperinflation of the UBQ token, each product in the Ubiquity system that is allowed to mint governance tokens will be subject to a product-wide penalty depending on the total amount of UBQ tokens minted by the protocol.&#x20;
+The **UBQ token** has no predefined mint schedule but is released when circumstances require it (some cases will be shown in this document for UUSD). To avoid hyperinflation of the UBQ token, each product in the Ubiquity system that is allowed to mint governance tokens will be subject to a product-wide penalty depending on the total amount of UBQ tokens minted by the protocol.&#x20;
 
 This penalty is defined by the following curve:
 

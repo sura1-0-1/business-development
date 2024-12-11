@@ -1,6 +1,6 @@
 # Staking LP Tokens
 
-Providing liquidity for uAD gets you rewards (see Notes). In addition, you can also get rewards for staking your LP tokens. This reward is in the form of Ubiquity Governance tokens (UBQ). Once you have your LP tokens, you can go back to the Ubiquity dashboard to stake your LP tokens.
+Providing liquidity for UUSD gets you rewards (see Notes). In addition, you can also get rewards for staking your LP tokens. This reward is in the form of Ubiquity Governance tokens (UBQ). Once you have your LP tokens, you can go back to the Ubiquity dashboard to stake your LP tokens.
 
 You can choose a minimum of 1 week to a max of 208 weeks, or 4 years. The longer you stake, the higher the amplification of your rewards.
 

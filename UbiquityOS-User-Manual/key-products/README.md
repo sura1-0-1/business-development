@@ -6,8 +6,8 @@ Supporting this core is the **Yield Aggregator**, which empowers users by maximi
 
 ## Ubiquity Ecosystem Products
 
-1. **Ubiquity Dollar (uAD)**\
-   **The Ubiquity Dollar (uAD)** is a stablecoin pegged to the US Dollar, designed to deliver financial stability and enable seamless transactions within decentralized finance (DeFi) applications and the evolving metaverse. It combines reliability and scalability, making it an ideal choice for both traditional and virtual economies.
+1. **Ubiquity Dollar (UUSD)**\
+   **The Ubiquity Dollar (UUSD)** is a stablecoin pegged to the US Dollar, designed to deliver financial stability and enable seamless transactions within decentralized finance (DeFi) applications and the evolving metaverse. It combines reliability and scalability, making it an ideal choice for both traditional and virtual economies.
 2. **Ubiquity OS DevPool**\
    The **Ubiquity OS DevPool** is an innovative platform that combines the power of decentralized finance (DeFi) and artificial intelligence (AI). It offers dynamic rewards, advanced governance tools, and global collaboration solutions, empowering contributors and organizations to thrive in a decentralized ecosystem.
 3. **Yield Aggregator**\

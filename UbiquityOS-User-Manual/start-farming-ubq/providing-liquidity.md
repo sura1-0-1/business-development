@@ -4,7 +4,7 @@ To begin your journey with Ubiquity, you will need to provide liquidity to the s
 
 Before you start, make sure you have some Ether in your Metamask wallet to cover your "gas" fees -the fee to conduct any transaction on the Ethereum blockchain. You can send crypto to your wallet through exchanges like Coinbase or Binance. Nowadays, you can also buy ETH directly on Metamask using Wyre, a financial payment service.
 
-To begin farming UBQ, you need to provide liquidity to the uAD pool on Curve. Here's how it works:
+To begin farming UBQ, you need to provide liquidity to the UUSD pool on Curve. Here's how it works:
 
 ### **Steps to Provide Liquidity**
 
@@ -17,13 +17,13 @@ To begin farming UBQ, you need to provide liquidity to the uAD pool on Curve. He
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Go to the  [Ubiquity Dollar dashboard](http://uad.ubq.fi/) and click the **DEPOSIT** button for uAD. this redirects you to the Curve Metapool interface, where you can add liquidity. You may also go to [crv.to](http://crv.to/) directly and search for uAD.
+Go to the  [Ubiquity Dollar dashboard](http://uad.ubq.fi/) and click the **DEPOSIT** button for UUSD. this redirects you to the Curve Metapool interface, where you can add liquidity. You may also go to [crv.to](http://crv.to/) directly and search for UUSD.
 
 ### 3, Add Liquidity:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Connect your **Metamask wallet** to the Curve dApp. Once that is done, you can click the blue droplet (see below) to add liquidity to the uAD pool. You can use either DAI or USDC. Add in your amount and click add liquidity. Approve your transaction on Metamask.
+Connect your **Metamask wallet** to the Curve dApp. Once that is done, you can click the blue droplet (see below) to add liquidity to the UUSD pool. You can use either DAI or USDC. Add in your amount and click add liquidity. Approve your transaction on Metamask.
 
 ### 4, Receive LP Tokens
 

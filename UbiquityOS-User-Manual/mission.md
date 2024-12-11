@@ -4,7 +4,7 @@ At **Ubiquity DAO**, we aspire to become the **bank of the metaverse**, driving 
 
 We aim to:
 
-1. Create the world's first **sovereign**, **scalable** and **secure crypto dollar,** the Ubiquity Dollar.
+1. Create the world's first **sovereign**, **scalable** and **secure crypto dollar,** the Ubiquity Dollar(UUSD).
 2. Serve as the stablecoin of crypto gaming.
 3. Give back to the web3 developer ecosystem by creating open-source developer tooling.
 4. Support existing web 2.0 organizations looking to enter the web3 ecosystem.

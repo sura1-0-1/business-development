@@ -12,11 +12,11 @@ The treasury is responsible for supporting the ecosystem’s growth and stabilit
 
 ### **2. Revenue Contribution**
 
-Every product in the Ubiquity ecosystem contributes to replenishing the treasury. A percentage of all **seigniorage** (newly minted uAD tokens) flows into the treasury.
+Every product in the Ubiquity ecosystem contributes to replenishing the treasury. A percentage of all **seigniorage** (newly minted UUSD tokens) flows into the treasury.
 
 ### **3. Capital Deployment**
 
-Funds in the treasury are not left idle but are actively utilized to support ecosystem stability to enhance liquidity for the **Ubiquity Dollar (uAD)** during its early phases. As new products launch, funds are reallocated to optimize returns and reinforce ecosystem products.
+Funds in the treasury are not left idle but are actively utilized to support ecosystem stability to enhance liquidity for the **Ubiquity Dollar (UUSD)** during its early phases. As new products launch, funds are reallocated to optimize returns and reinforce ecosystem products.
 
 
 

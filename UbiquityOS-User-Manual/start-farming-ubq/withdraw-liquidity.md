@@ -8,7 +8,7 @@ When your lockup period is complete, you can withdraw your liquidity from the Ub
 
 To access your withdrawn liquidity, ensure the **uAD token** is added to your Metamask wallet:
 
-### **Steps to Add uAD Token to Metamask**
+### **Steps to Add** UUSD **Token to Metamask**
 
 #### **1, Open MetaMask**
 
@@ -46,7 +46,7 @@ Once you’ve added uAD to MetaMask, you can retrieve your liquidity from Curve:
 
 #### **1, Visit Curve Metapool**
 
-* Navigate to [Curve](https://crv.to) and search for the uAD pool.
+* Navigate to [Curve](https://crv.to) and search for the UUSD pool.
 
 #### **2, Connect Your Wallet**
 
@@ -55,7 +55,7 @@ Once you’ve added uAD to MetaMask, you can retrieve your liquidity from Curve:
 
 #### **3, Access Withdrawal Options**
 
-* Locate the **Withdraw Liquidity** section within the uAD pool interface.
+* Locate the **Withdraw Liquidity** section within the UUSD pool interface.
 
 #### **4, Specify Amount**
 
