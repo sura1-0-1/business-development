@@ -2,7 +2,7 @@
 
 
 
-The Ubiquity Governance System is the core structure that empowers UBQ token holders to actively engage in decision-making processes and influence the development of the protocol. Through a decentralized and transparent system, governance participants can propose, vote on, and implement changes to the protocol, ensuring that the ecosystem evolves in a way that aligns with the interests of its community.&#x20;
+The **Ubiquity Governance System** is the core structure that empowers **UBQ token** holders to actively engage in decision-making processes and influence the development of the protocol. Through a decentralized and transparent system, governance participants can propose, vote on, and implement changes to the protocol, ensuring that the ecosystem evolves in a way that aligns with the interests of its community.&#x20;
 
 The UBQ token plays a pivotal role in enabling this governance, allowing token holders to have a direct impact on key decisions, such as upgrades, parameter changes, and integrations, fostering a collaborative and decentralized environment.
 
@@ -26,4 +26,4 @@ The minting of UBQ tokens does not follow a predetermined schedule. Instead, new
 
 In the case of **uAD**, the protocol generates revenue through various mechanisms such as LP fees, seigniorage, and other sources. A portion of the proceeds is allocated to the **UBQ Fund**, which is used to **buy back** UBQ tokens from the market and provide liquidity (LP) on platforms like SushiSwap. These tokens are then burned, enhancing the liquidity of the UBQ token while maintaining a similar price impact to a buyback and burn mechanism.
 
-Overall, the UBQ token is integral to Ubiquity's decentralized governance system, incentivizing participation and ensuring the health and stability of the ecosystem.
+Overall, the **UBQ token** is integral to Ubiquity's decentralized governance system, incentivizing participation and ensuring the health and stability of the ecosystem.

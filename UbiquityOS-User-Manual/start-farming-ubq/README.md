@@ -1,6 +1,6 @@
 # Start Farming UBQ
 
-Farming UBQ involves providing liquidity to the Ubiquity ecosystem and staking liquidity provider (LP) tokens to earn Ubiquity Governance Tokens (UBQ). Farming UBQ revolves around participating in the Ubiquity ecosystem by **providing liquidity** to its Curve Metapool and then **staking LP (Liquidity Provider) tokens** to earn **Ubiquity Governance Tokens (UBQ)** as rewards.
+**Farming UBQ** involves providing liquidity to the Ubiquity ecosystem and staking liquidity provider (LP) tokens to earn **Ubiquity Governance Tokens (UBQ).** Farming UBQ revolves around participating in the Ubiquity ecosystem by **providing liquidity** to its Curve Metapool and then **staking LP (Liquidity Provider) tokens** to earn **Ubiquity Governance Tokens (UBQ)** as rewards.
 
 ### **What is Liquidity in DeFi?**
 

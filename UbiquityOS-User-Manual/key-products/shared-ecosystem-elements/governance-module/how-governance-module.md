@@ -22,7 +22,7 @@ The duration of the Cool Off Period is estimated to be around **three months**, 
 
 ## **3, Fully Decentralized Governance**
 
-Fully Decentralized Governance is to transition to a governance model that is entirely driven by the community. Under this model, control lies in the hands of the community, as proposals are created, debated, and executed based on the outcomes of community voting.&#x20;
+**Fully Decentralized Governance** is to transition to a governance model that is entirely driven by the community. Under this model, control lies in the hands of the community, as proposals are created, debated, and executed based on the outcomes of community voting.&#x20;
 
 Voting power within this framework is determined by the staking of **UBQ** tokens, where staked governance tokens dictate the weight of each vote. Additionally, a duration multiplier is applied, which means that longer staking periods result in greater voting power, following a predefined multiplier curve.&#x20;
 

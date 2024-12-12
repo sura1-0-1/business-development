@@ -28,7 +28,7 @@ Launch your MetaMask extension or mobile app.
 * Input the **Token Contract Address**:\
   `0x0f644658510c95cb46955e55d7ba9dda9e9fbec6`
 * MetaMask will automatically populate:
-  * **Token Symbol**: `uAD`
+  * **Token Symbol**: UUSD
   * **Decimals of Precision**: `18`
 
 #### **5, Save the Token**
@@ -69,7 +69,7 @@ Once you’ve added uAD to MetaMask, you can retrieve your liquidity from Curve:
 
 ***
 
-The withdrawn uAD and stablecoins will appear in your MetaMask wallet once the transaction is finalized. If necessary, refresh your wallet interface to see the updated balances.
+The withdrawn UUSD and stablecoins will appear in your MetaMask wallet once the transaction is finalized. If necessary, refresh your wallet interface to see the updated balances.
 
 ***
 
