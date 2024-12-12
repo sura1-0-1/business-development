@@ -6,9 +6,9 @@ The **Ubiquity Dollar (UUSD)** is a fully collateralized stablecoin and the pilo
 
 " **Without stability, we have nothing. "**
 
-A stable, sovereign, and scalable digital dollar positioned as the **reserve currency of DeFi**. As the **first polymorphic stablecoin**, uAD is engineered to address the challenges of stability, scalability, and security, essential for widespread adoption in the gaming and metaverse economies.
+A stable, sovereign, and scalable digital dollar positioned as the **reserve currency of DeFi**. As the **first polymorphic stablecoin**, UUSD is engineered to address the challenges of stability, scalability, and security, essential for widespread adoption in the gaming and metaverse economies.
 
-Ubiquity DAO is carving out a unique position for uAD while building a robust foundation for its broader ambition to drive DeFi adoption.
+Ubiquity DAO is carving out a unique position for UUSD while building a robust foundation for its broader ambition to drive DeFi adoption.
 
 <figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 

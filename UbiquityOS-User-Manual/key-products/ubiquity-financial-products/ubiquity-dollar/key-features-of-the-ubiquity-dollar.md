@@ -1,6 +1,6 @@
 # Key Features of the Ubiquity Dollar
 
-The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm of digital currencies, offering a unique blend of stability and innovation. With a fully collateralized framework, uAD stands as a reliable digital asset, providing foundational trust and utility across decentralized ecosystems. &#x20;
+The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm of digital currencies, offering a unique blend of stability and innovation. With a fully collateralized framework, UUSD stands as a reliable digital asset, providing foundational trust and utility across decentralized ecosystems. &#x20;
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
@@ -8,7 +8,7 @@ The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm 
 
 1.  **Collaterization and Modularity:**
 
-    uAD is backed to ensure its value remains stable, even during market fluctuations. With built-in **transfer hooks** and **upgradeable smart contracts**, uAD can integrate new features and stabilization mechanisms as needed, without disrupting the protocol.
+    UUSD is backed to ensure its value remains stable, even during market fluctuations. With built-in **transfer hooks** and **upgradeable smart contracts**, UUSD can integrate new features and stabilization mechanisms as needed, without disrupting the protocol.
 2. **Inflation and Debt Cycle Management:**
    *   **Inflation Cycle (UUSD > $1):**
 
@@ -20,7 +20,7 @@ The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm 
          * **DEX liquidity providers**
          * **Protocol treasury**
        * This mechanism reduces UUSD’s price back to its pegged $1 value.
-   *   **Debt Cycle (uAD < $1):**
+   *   **Debt Cycle (UUSD < $1):**
 
        When uAD’s price drops below $1, holders are incentivized to burn uAD in exchange for **Ubiquity Credits (uCR)**.
 
