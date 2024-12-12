@@ -6,20 +6,20 @@ Ubiquity Onboarding is a streamlined platform designed to help partners integrat
 
 ### **Step-by-Step Onboarding**
 
-1.  **Access the Onboarding Platform**:
+1.  **Access the Onboarding Platform**
 
     Visit [onboard.ubq.fi](https://onboard.ubq.fi). click on **Sign In with GitHub** to authenticate your account.
-2.  **Grant Permissions**:
+2.  **Grant Permissions**
 
     Review the requested permissions to allow Ubiquibot access to your repositories. and grant access to the Superintendent for seamless configuration management.
-3.  **Configure Settings**: &#x20;
+3.  **Configure Settings**
 
 
 
     <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  **Complete the Setup**:
+4.  **Complete the Setup**
 
 
 
