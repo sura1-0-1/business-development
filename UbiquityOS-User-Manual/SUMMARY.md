@@ -41,5 +41,6 @@
     * [Import Wallet to Meta Mask](developer_onboarding/cash-out/import-wallet-to-meta-mask.md)
   * [Plugin-Development](developer_onboarding/plugin-development.md)
 * [Partner-Onboarding](partner-onboarding/README.md)
+  * [Ubiquity Onboarding Guide](partner-onboarding/ubiquity-onboarding-guide.md)
   * [How UbiquityOS Works](partner-onboarding/how-ubiquityos-works.md)
 * [Frequently Asked Questions (FAQ)](frequently-asked-questions-faq.md)
