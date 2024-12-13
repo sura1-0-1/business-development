@@ -55,8 +55,7 @@ plugins:
 
 ### **Starter Kit**
 
-* Use the **Plugin SDK** and boilerplate from the plugin template.
-* This includes an entry point, utilities, and a simplified development setup.
+Use the **Plugin SDK** and boilerplate from the plugin template. and this includes an entry point, utilities, and a simplified development setup.
 
 ### **Defining Plugin Capabilities**
 
@@ -77,7 +76,7 @@ Each plugin must include a `manifest.json` file:
 }
 ```
 
-### **Plugin Deployment**
+## **Plugin Deployment**
 
 ### **Deploying to Cloudflare**
 
@@ -115,7 +114,7 @@ Each plugin must include a `manifest.json` file:
            - plugin: https://my-ngrok-url.ngrok-free.app
        ```
 
-### **Testing Workflow**
+## **Testing Workflow**
 
 ### **Kernel Testing**
 
