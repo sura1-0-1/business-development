@@ -19,7 +19,7 @@ Then, go to the devpool directory and log it with your GitHub account.
 
 Next, GitHub prompt you to register to the DevPool Registration&#x20;
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
 Fill out the information such as username and Password.
 
