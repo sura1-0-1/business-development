@@ -22,7 +22,7 @@ The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm 
        * This mechanism reduces **UUSD’s** price back to its pegged $1 value.
    *   **Debt Cycle (UUSD < $1):**
 
-       When **UUSD** price drops below $1, holders are incentivized to burn uAD in exchange for **Ubiquity Credits (uCR)**.
+       When **UUSD** price drops below $1, holders are incentivized to burn **UUSD** in exchange for **Ubiquity Credits (uCR)**.
 
        * **uCR Issuance:**
          * uCR is issued at a premium and redeemable 1:1 for **UUSD** when the price recovers.
