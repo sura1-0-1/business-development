@@ -8,7 +8,7 @@ By following these steps, contributors can effectively engage with the  DevPool.
 
 1.  **Sign Up:**
 
-    Visit our GitHub Official Website and click on "Sign Up" if you don\`t have account or if you have already have a GitHub account click on "Login" to get stand with GitHub. Complete the registration form to create your account.
+    Visit our GitHub Official Website and click on "**Sign Up**" if you don\`t have account or if you have already have a GitHub account click on "**Login**" to get stand with GitHub. Complete the registration form to create your account.
 2.  **Verify Your Identity:**
 
     Follow the prompts to verify your account. Secure your account with two-factor authentication.
