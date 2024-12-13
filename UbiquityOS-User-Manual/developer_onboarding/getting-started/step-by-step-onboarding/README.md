@@ -6,10 +6,10 @@ By following these steps, contributors can effectively engage with the  DevPool.
 
 ### Step 1: Set Up Your GitHub Account
 
-1.  **Sign Up:**
+1.  **Sign Up**
 
     Visit our GitHub Official Website and click on "**Sign Up**" if you don\`t have account or if you have already have a GitHub account click on "**Login**" to get stand with GitHub. Complete the registration form to create your account.
-2.  **Verify Your Identity:**
+2.  **Verify Your Identity**
 
     Follow the prompts to verify your account. Secure your account with two-factor authentication.
 
@@ -29,7 +29,7 @@ Finally, authenticate the ubiquity bot to access you personal date for registrat
 
 ### Step 2: Start Contributing
 
-* **Browse Available Tasks :**
+* **Browse Available Tasks**
 
 Browse Available Tasks for opportunities that match your skills. View task details, deadlines, Priority level and rewards.
 
@@ -58,22 +58,22 @@ this are all available list of commands&#x20;
 
 then, you can use&#x20;
 
-**1, /ask Command:**
+**1, /ask Command**
 
 `/ask` Command to ask a question related to the repository, issue, or pull request.
 
-**How to Use:**
+**How to Use**
 
 * Type `/ask` followed by your question.
 * Be specific to get accurate answers.
 
 `/ask How do I set up the development environment?`
 
-**2, /Wallet  Command:**
+**2, /Wallet  Command**
 
 Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.&#x20;
 
-**How to Use:**
+**How to Use**
 
 * Replace `ubq.eth` with your actual wallet address.
 
@@ -89,7 +89,7 @@ Comment “/wallet 0x0000” but with your address instead, on the issue you are
 
 Assign yourself and/or others to an issue or task.
 
-#### **How to Use:**
+#### **How to Use**
 
 Type `/start` in the issue/task thread.
 
@@ -99,15 +99,15 @@ You will be assigned to the issue or task.
 
 
 
-4, /Stop Command:
+4, /Stop Command
 
 this command will Unassign yourself from an issue or task.
 
-#### **How to Use:**
+#### **How to Use**
 
 Type `/stop` in the issue/task thread.
 
-#### **Example:**
+#### **Example**
 
 #### `/stop`
 

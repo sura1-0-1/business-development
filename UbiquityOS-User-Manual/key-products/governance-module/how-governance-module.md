@@ -8,19 +8,19 @@ Governance within the Ubiquity ecosystem operates across **four distinct phases*
 
 ## **Four key phases**:
 
-## **1, Rapid Prototyping Period:**
+## **1. Rapid Prototyping Period:**
 
 At the very beginning of each product, the Ubiquity team will have full access to **deploy changes** and **hotfixes** to the product as needed.  this will facilitate agile development and rapid iteration at the inception of a product. Furthermore, the core development team will have mint access to [uCR](https://github.com/ubiquity/ubiquity-dollar-development/wiki/11.-uCR) tokens to finance these changes.
 
 This stage lasts approximately one month, but this may vary based on the project.
 
-## **2, Cool Off Period**
+## **2. Cool Off Period**
 
 The **Cool Off Period** is to introduce community feedback into the decision-making process. During this period, the Ubiquity team will maintain exclusive deployment privileges, ensuring that all proposed changes are subject to a transparent community discussion on the project’s forums. This approach allows for thorough vetting and ensures that the community plays an active role in discussions, providing feedback, and engaging with the initial stages of governance processes.&#x20;
 
 The duration of the Cool Off Period is estimated to be around **three months**, although there is flexibility to adjust this timeframe based on the project's needs.
 
-## **3, Fully Decentralized Governance**
+## **3. Fully Decentralized Governance**
 
 **Fully Decentralized Governance** is to transition to a governance model that is entirely driven by the community. Under this model, control lies in the hands of the community, as proposals are created, debated, and executed based on the outcomes of community voting.&#x20;
 
@@ -41,7 +41,7 @@ The staking duration can range from a minimum of 1 week to a maximum of 208 week
 
 The process for suggesting and implementing a proposal will closely follow UniSwap’s governance process, with tweaked parameters and an additional **Tender** step.
 
-### **1, Temperature Check**:&#x20;
+### **1. Temperature Check**:&#x20;
 
 **T**he purpose of the Temperature Check is to determine if there is sufficient will to make changes to the status quo.
 
@@ -52,7 +52,7 @@ The process for suggesting and implementing a proposal will closely follow UniSw
 
 If the proposal gains 5% of the pool backing, then it moves to the next stage - consensus check.
 
-### **2, Consensus Check**:&#x20;
+### **2. Consensus Check**:&#x20;
 
 The **Consensus Check** stage ensures that a proposed idea, refined by community feedback, is thoroughly discussed and formally voted upon to determine whether it proceeds to the **Tender Process**.
 
@@ -92,7 +92,7 @@ Voting lasts 5 days. Whichever option has the majority of votes wins, and can be
 
 If the option “**Make no change**” wins, the Consensus Check topic should be closed by community moderators
 
-### **3, Tender Process**:&#x20;
+### **3. Tender Process**:&#x20;
 
 The **Tender Process** is designed to identify the most capable entity to implement a proposed initiative effectively. To achieve this objective, a mechanism is established wherein a public bidding process is opened, allowing applicants to submit detailed proposals. These proposals are required to outline essential components, including timelines, success criteria, requested subsidies, and penalty terms. Once the bids are submitted, the community engages in a voting process to rank the proposals based on merit, with the top-ranked applicant ultimately selected as the Implementation Party.&#x20;
 
@@ -106,7 +106,7 @@ The tender begins after the Consensus check, and applicants can submit their pro
 
 This party is then required to stake a penalty deposit or secure subsidies from their supporters to ensure commitment to the project. If the selected Implementation Party fails to meet the agreed-upon conditions, the opportunity does not end there; instead, it cascades to the next-ranked bid, or the process restarts if necessary. The outcome of this process is that the winning bid progresses to the Governance Proposal stage, where it can be formally approved and set in motion. Through this structured approach, the Tender Process ensures that the most qualified entities are chosen to carry out community-backed initiatives while promoting transparency and accountability.
 
-### **4, Governance Proposal**:&#x20;
+### **4. Governance Proposal**:&#x20;
 
 The **Governance Proposa**l stage is crucial for finalizing and executing proposals following community approval. The primary objective of this stage is to ensure that the implementation party develops the proposal code thoroughly and undergoes an audit to verify its integrity and functionality; audit costs can be subsidized by the treasury to alleviate financial burdens.&#x20;
 
@@ -123,7 +123,7 @@ Once the proposal is active, a **5 day voting period** is started. Ongoing discu
 * The community can vote on a time extension in order for the implementation party to re-calibrate its proposal
 * The community rejects the proposal, any penalties defined are slashed from the implementation party’s deposit and the Tender process begins anew
 
-## **4, Governance Proposal Execution**
+## **4. Governance Proposal Execution**
 
 The **Governance Proposal Execution** stage is designed to implement the winning proposals that have emerged from the decentralized governance phase. The primary purpose of this stage is to ensure that these approved proposals are executed efficiently and effectively, guiding the community's initiatives toward realization. The process begins with Proposal Creation, which involves defining detailed parameters such as the implementation plan, budget, success criteria, and any penalties that may apply for non-compliance. This clarity helps all stakeholders understand the scope and expectations of the proposal.
 

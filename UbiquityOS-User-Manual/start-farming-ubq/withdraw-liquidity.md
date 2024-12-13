@@ -16,7 +16,7 @@ Launch your MetaMask extension or mobile app.
 
 #### **2, Navigate to Assets**
 
-* Click on the **Assets tab** in your MetaMask wallet.
+Click on the **Assets tab** in your MetaMask wallet.
 
 #### **3, Add Custom Token**
 
@@ -25,16 +25,17 @@ Launch your MetaMask extension or mobile app.
 
 #### **4, Enter Token Details**
 
-* Input the **Token Contract Address**:\
-  `0x0f644658510c95cb46955e55d7ba9dda9e9fbec6`
-* MetaMask will automatically populate:
-  * **Token Symbol**: UUSD
-  * **Decimals of Precision**: `18`
+Input the **Token Contract Address**:\
+`0x0f644658510c95cb46955e55d7ba9dda9e9fbec6`
+
+MetaMask will automatically populate:
+
+* **Token Symbol**: UUSD
+* **Decimals of Precision**: `18`
 
 #### **5, Save the Token**
 
-* Click **Add Custom Token** to finalize.
-* **UUSD** will now appear under your MetaMask wallet's assets.
+Click **Add Custom Token** to finalize. **UUSD** will now appear under your MetaMask wallet's assets.
 
 ***
 
@@ -46,26 +47,23 @@ Once you’ve added **UUSD** to MetaMask, you can retrieve your liquidity from C
 
 #### **1, Visit Curve Metapool**
 
-* Navigate to [Curve](https://crv.to) and search for the UUSD pool.
+Navigate to [Curve](https://crv.to) and search for the UUSD pool.
 
 #### **2, Connect Your Wallet**
 
-* Click **Connect Wallet** and select MetaMask.
-* Ensure you're on the Ethereum network.
+&#x20;Click on the "Connect Wallet" button, and from the list of available options, select MetaMask as your wallet of choice. Before proceeding, double-check that your MetaMask wallet is set to the Ethereum network, as this is essential for interacting with Ethereum-based applications. Once connected and on the correct network, you'll be able to manage transactions and interact seamlessly with the platform.
 
 #### **3, Access Withdrawal Options**
 
-* Locate the **Withdraw Liquidity** section within the UUSD pool interface.
+Locate the **Withdraw Liquidity** section within the UUSD pool interface.
 
 #### **4, Specify Amount**
 
-* Enter the amount of liquidity you wish to withdraw.
-* Curve will calculate and display the **UUSD** and stablecoins (DAI, USDC) you’ll receive.
+To withdraw liquidity from Curve, you first need to enter the amount you wish to withdraw. Once you have specified this amount, Curve will automatically calculate and display the distribution of assets you will receive from the liquidity pool withdrawal. This typically includes UUSD and other stablecoins like DAI and USDC, giving you a clear overview of what your withdrawal will comprise based on the current pool ratios.
 
 #### **5, Approve Transaction**
 
-* Confirm the withdrawal transaction in MetaMask.
-* Wait for the transaction to be confirmed on the Ethereum blockchain.
+To complete a withdrawal transaction using MetaMask, begin by confirming the transaction within the MetaMask interface. After this step, it's important to wait patiently as the transaction is processed and confirmed on the Ethereum blockchain. This confirmation can take varying amounts of time depending on network congestion and gas fees. Once confirmed, the withdrawal will be successfully executed.
 
 ***
 

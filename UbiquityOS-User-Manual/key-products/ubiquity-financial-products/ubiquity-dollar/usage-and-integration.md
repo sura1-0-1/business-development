@@ -2,7 +2,7 @@
 
 The **Ubiquity Dollar (UUSD)** is designed to seamlessly integrate into a variety of use cases across decentralized finance (DeFi), gaming, and real-world applications. Its modular, flexible structure allows for easy adoption and integration into existing and emerging platforms. Here's an overview of how UUSD can be used and integrated across various sectors.
 
-## **The Ubiquity Dollar drives its adoption by focusing on :**
+## **The Ubiquity Dollar drives its adoption by focusing on**
 
 ### 1. **DeFi Integration**
 
