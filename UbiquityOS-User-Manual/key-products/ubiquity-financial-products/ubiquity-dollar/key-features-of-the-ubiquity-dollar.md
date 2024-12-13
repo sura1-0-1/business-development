@@ -8,24 +8,24 @@ The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm 
 
 1.  **Collaterization and Modularity:**
 
-    UUSD is backed to ensure its value remains stable, even during market fluctuations. With built-in **transfer hooks** and **upgradeable smart contracts**, UUSD can integrate new features and stabilization mechanisms as needed, without disrupting the protocol.
+    **UUSD** is backed to ensure its value remains stable, even during market fluctuations. With built-in **transfer hooks** and **upgradeable smart contracts**, **UUSD** can integrate new features and stabilization mechanisms as needed, without disrupting the protocol.
 2. **Inflation and Debt Cycle Management:**
    *   **Inflation Cycle (UUSD > $1):**
 
-       When **uAD’s** price exceeds $1, new tokens are minted to reduce demand.
+       When **UUSD** price exceeds $1, new tokens are minted to reduce demand.
 
        * Newly minted **UUSD** is distributed to:
          * **uCR and uCR NFT holders**
          * **Bonded UUSD holders**
          * **DEX liquidity providers**
          * **Protocol treasury**
-       * This mechanism reduces UUSD’s price back to its pegged $1 value.
+       * This mechanism reduces **UUSD’s** price back to its pegged $1 value.
    *   **Debt Cycle (UUSD < $1):**
 
-       When uAD’s price drops below $1, holders are incentivized to burn uAD in exchange for **Ubiquity Credits (uCR)**.
+       When **UUSD** price drops below $1, holders are incentivized to burn uAD in exchange for **Ubiquity Credits (uCR)**.
 
        * **uCR Issuance:**
-         * uCR is issued at a premium and redeemable 1:1 for uAD when the price recovers.
+         * uCR is issued at a premium and redeemable 1:1 for **UUSD** when the price recovers.
          * This contraction of **UUSD** supply increases its demand, restoring the $1 peg.
 3.  **Polymorphic Architecture:**
 
