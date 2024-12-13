@@ -24,7 +24,7 @@ Ubiquity DAO is carving out a unique position for UUSD while building a robust f
 
 ### **Further Information**
 
-For  technical details:
+**For  technical details**
 
 * Visit the [Ubiquity Smart Contracts](https://github.com/ubiquity/ubiquity-dollar-development/wiki/18.-Smart-Contracts) page, to explore the code behind the protocol.
 * Review the [Tokenomics](https://github.com/ubiquity/ubiquity-dollar-development/wiki/05.-Tokenomics) overview for an in-depth understanding of the economic mechanisms and smart contract architecture and [UUSD token](https://github.com/ubiquity/ubiquity-dollar-development/wiki/08.-uAD) documentation pages.

@@ -10,15 +10,13 @@ Ubiquity's **Dollar (UUSD)** is a decentralized stablecoin designed to maintain 
 
 ### **1. Collateralization Approach**
 
-* Fully collateralized to provide a strong foundation and ensure stability during the launch phase.
-* Gradual reduction in collateral reliance, ensuring stability while optimizing capital efficiency.
-* Focus on **permissionless, pegged stablecoins** such as **LUSD**, which align with the decentralized ethos.
+The collateralization approach begins with a strategy that is fully collateralized to establish a robust and stable foundation during the initial launch phase. As the platform matures, there is a gradual reduction in reliance on collateral, which aims to maintain stability while optimizing capital efficiency.&#x20;
 
 ### **2. Collateral Management**
 
-* **Manual Collateral Buyback**: Initially managed via the treasury wallet, allowing for:
-  * Testing and refining processes, including selecting collateral types, sourcing collateral via the Yield Aggregator, and determining buyback aggressiveness.
-* **Automation via Transfer Hooks**: Once the process is validated, buybacks will be automated during Ubiquity Dollar transactions, enhancing efficiency and scalability.
+The initial phase of the manual collateral buyback process is managed through the treasury wallet, providing an opportunity to test and refine various aspects of the system. This includes selecting suitable types of collateral, sourcing collateral through the Yield Aggregator, and determining the level of aggressiveness needed for buybacks.&#x20;
+
+Once these processes have been thoroughly validated, buybacks will transition to automation via Transfer Hooks. This shift will occur during Ubiquity Dollar transactions, thereby enhancing both the efficiency and scalability of the buyback mechanism.
 
 ***
 
