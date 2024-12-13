@@ -20,7 +20,7 @@ It can be integrated into payment systems for both digital and physical goods, o
 
 ### 4. **Governance and Ecosystem Integration :**&#x20;
 
-**Ubiquity Dollar (**&#x55;US&#x44;**)** ecosystem is powered by the **UBQ token**, which grants holders voting rights on key decisions like protocol upgrades, parameter changes, and overall strategy. uAD holders are encouraged to engage in governance to ensure the ecosystem’s long-term stability and growth.
+**Ubiquity Dollar (**&#x55;US&#x44;**)** ecosystem is powered by the **UBQ token**, which grants holders voting rights on key decisions like protocol upgrades, parameter changes, and overall strategy. UUSD holders are encouraged to engage in governance to ensure the ecosystem’s long-term stability and growth.
 
 In terms of **interoperability**, UUSD is designed to integrate seamlessly with other stablecoins and DeFi protocols. Its flexible architecture allows UUSD to function as collateral, liquidity, or trading pairs across various decentralized platforms, promoting cross-protocol collaboration and expanding its utility within the broader DeFi ecosystem.
 

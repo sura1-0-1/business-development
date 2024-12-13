@@ -1,6 +1,6 @@
 # Ubiquity OS DevPool
 
-**Find Work in the Ubiquity OS DevPool**
+### " **Find Work in the Ubiquity OS DevPool  "**
 
 <figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

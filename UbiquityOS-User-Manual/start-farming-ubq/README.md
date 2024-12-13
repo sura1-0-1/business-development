@@ -6,7 +6,7 @@
 
 Liquidity in decentralized finance (DeFi) ensures that assets can be easily traded without causing significant price fluctuations. This is achieved by users contributing their tokens to **liquidity pools**, which are smart contract-driven reserves that facilitate trades.
 
-* In Ubiquity’s case, users can add stablecoins (like DAI or USDC) to a **Curve Metapool**, which supports the Ubiquity Dollar (uAD).
+* In Ubiquity’s case, users can add stablecoins (like DAI or USDC) to a **Curve Metapool**, which supports the Ubiquity Dollar (UUSD).
 * In return, users receive **LP tokens** representing their share of the pool.
 
 
