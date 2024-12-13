@@ -15,7 +15,7 @@ The **UBQ token** has no predefined mint schedule but is released when circumsta
 
 This penalty is defined by the following curve:
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 The minting of UBQ tokens does not follow a predetermined schedule. Instead, new tokens are generated when necessary based on product requirements. However, to prevent hyperinflation, the system introduces a product-wide penalty for excessive UBQ minting, which is determined by a specific curve. Early stages of a product may see no penalty, but as the total minted tokens increase (e.g., surpassing 47 million), the penalty rate will rise, discouraging excessive inflation.
 
