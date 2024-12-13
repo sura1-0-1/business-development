@@ -149,7 +149,7 @@ Each plugin must include a `manifest.json` file:
 
 ***
 
-### **Best Practices**
+## **Best Practices**
 
 1. Keep your `.ubiquity-os` repository private.
 2. Always use separate Cloudflare accounts for the kernel and plugins.
