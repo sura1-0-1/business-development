@@ -30,7 +30,7 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt="" width="348"><figcaption></figcaption></figure>
 
-1.  Create a branch for your task:
+1.  Create a branch for your task
 
     ```bash
     git checkout -b <branch-name>
@@ -82,9 +82,9 @@ When your work is complete go to the draft PR on GitHub and click **Ready for re
 
 ### **⇒  During the Review Process**
 
-1. **Do Not Force Push :**\
+1. **Do Not Force Push** \
    Avoid using `git push --force` once the review process starts. Force pushing deletes commit history, which slows down reviews.
-2. **Tag the Task Creator if Necessary :**\
+2. **Tag the Task Creator if Necessary** \
    If a reviewer hasn’t picked up your PR within 24 hours, tag the task creator in a comment to request a review.
 
 **Review and Completion**

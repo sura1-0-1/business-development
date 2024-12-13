@@ -16,7 +16,7 @@ This section explains the process of claiming payment for completed tasks after 
 
 ### **Step 2: Payment Link Generation**
 
-Once the PR is merged and the issue is closed:
+Once the PR is merged and the issue is closed
 
 * The **bot** automatically generates custom **payment links** for every contributor to the task.
 * These payment links are sent to each contributor based on the contribution details.

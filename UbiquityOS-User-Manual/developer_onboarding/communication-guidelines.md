@@ -4,7 +4,7 @@ The **DevPool Communication Guidelines** are designed to ensure a **productive a
 
 ### **Key Rules for Communication**
 
-1.  **Silence is Golden**:
+1.  **Silence is Golden**
 
     * Maintain a high **signal-to-noise ratio** in the Telegram group chat. Conversations should remain focused and relevant.
     * GitHub issues and discussions are more forgiving for casual or detailed conversations compared to Telegram.
@@ -13,12 +13,12 @@ The **DevPool Communication Guidelines** are designed to ensure a **productive a
     * Avoid using the DevPool chat to promote unrelated jobs or projects. External job offers will be removed.
 
 
-2.  &#x20;**Partner Program**:
+2.  &#x20;**Partner Program**
 
     * Organizations at the seed stage or beyond can inquire about partnerships in the **DAO chat**.
 
 
-3. **Process and Rule Questions**:
+3. **Process and Rule Questions**
    * Questions about **rules** or the **DevPool Flow** will not be entertained in the DevPool chat.
    * Once started on a task, contributors can ask clarifications on **GitHub**, where core team members are more accommodating.
 

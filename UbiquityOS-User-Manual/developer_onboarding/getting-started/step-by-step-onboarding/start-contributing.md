@@ -1,6 +1,6 @@
 # Start Contributing
 
-* **Browse Available Tasks :**
+* **Browse Available Tasks**
 
 Browse Available Tasks for opportunities that match your skills. View task details, deadlines, Priority level and rewards.
 
@@ -29,7 +29,7 @@ this are all available list of commands.
 
 then, you can use the list of commands to interact  Ubiquity OS.
 
-**1, /ask Command:**
+**1, /ask Command**
 
 `/ask` Command to ask a question related to the repository, issue, or pull request.
 
@@ -42,7 +42,7 @@ then, you can use the list of commands to interact  Ubiquity OS.
 
 
 
-**2, /Wallet  Command:**
+**2, /Wallet  Command**
 
 Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.&#x20;
 
@@ -62,7 +62,7 @@ Comment “/wallet 0x0000” but with your address instead, on the issue you are
 
 Assign yourself and/or others to an issue or task.
 
-#### **How to Use:**
+#### **How to Use**
 
 Type `/start` in the issue/task thread.
 
@@ -72,15 +72,15 @@ You will be assigned to the issue or task.
 
 
 
-4, /Stop Command:
+4, /Stop Command
 
 this command will Unassign yourself from an issue or task.
 
-#### **How to Use:**
+#### **How to Use**
 
 Type `/stop` in the issue/task thread.
 
-#### **Example:**
+#### **Example**
 
 #### `/stop`
 
@@ -90,11 +90,11 @@ this command will unassign you from the task or issue.
 
 Returns details about a user’s wallet, access level, and multiplier information.
 
-#### **How to Use:**
+#### **How to Use**
 
 1. Replace `@UbiquityOS` with the username whose information you want to query.
 
-**Example:**
+**Example**
 
 **`/query your username`**
 
@@ -102,12 +102,12 @@ Returns details about a user’s wallet, access level, and multiplier informatio
 
 Grants permission to a user to modify a specified label type.
 
-#### **How to Use:**
+#### **How to Use**
 
 1. Replace `@user1` with the username of the person you want to grant access.
 2. Replace `label` with the specific label type.
 
-#### **Example:**
+#### **Example**
 
 **`/allow @JohnDoe bug`**
 
