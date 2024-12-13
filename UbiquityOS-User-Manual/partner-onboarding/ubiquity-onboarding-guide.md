@@ -19,22 +19,11 @@ Ubiquity Onboarding is a streamlined platform designed to help partners integrat
     <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 
-4.  **Complete the Setup**
-
-
-
-
+4. **Complete the Setup**
 
 Your UbiquityOS instance is now ready to support your DAO.
 
 ***
-
-### **Features of Ubiquity Onboarding**
-
-* Easy sign-in and repository access management.
-* Pre-set non-invasive settings for quick setup.
-* Provides seamless interaction with the core UbiquityOS kernel.
-* Simplifies the onboarding of new DAOs with minimal user intervention.,
 
 ### **Best Practices for New Projects**
 

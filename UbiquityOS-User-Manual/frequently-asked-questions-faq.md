@@ -31,7 +31,7 @@ The platform aims to revolutionize task management and collaboration by automati
 
 ### &#x20;**Account and Wallet**
 
-* How do I verify my account?
+* How do I create  devpool account?
 
 
 
