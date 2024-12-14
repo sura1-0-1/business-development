@@ -8,8 +8,8 @@ erDiagram
     GITHUB ||..o{ KERNEL : webhooks
     KERNEL }|..|{ PLUGIN-A : invokes
     KERNEL }|..|{ PLUGIN-B : invokes
-    KERNEL ||..|{ PLUGIN-C : invokes
-    KERNEL }|..|{ CONFIGURATION : uses
+    KERNEL }|..|{ PLUGIN-C : invokes
+    KERNEL ||--o{ CONFIGURATION : uses
     PLUGIN-A ||..|{ KERNEL : responds
     PLUGIN-B ||..|{ KERNEL : responds
     PLUGIN-C ||..|{ KERNEL : responds
