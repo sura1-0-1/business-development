@@ -31,7 +31,7 @@
 
     <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-    * Network Name: `Genesis`
+    * Network Name: `Gnosis`
     * RPC URL: [https://rpc.gnosischain.com](https://rpc.gnosischain.com)
     * Chain ID: 100
     * Currency Symbol: XDAI
