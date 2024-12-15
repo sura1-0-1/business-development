@@ -13,7 +13,7 @@ By following these steps, contributors can effectively engage with the  DevPool.
 
     Follow the prompts to verify your account. Secure your account with two-factor authentication.
 
-Then, go to the devpool directory and log it with your GitHub account.
+Then, go to the DevPool directory and log it with your GitHub account.
 
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
