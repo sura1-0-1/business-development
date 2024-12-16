@@ -33,4 +33,4 @@ Once the PR is merged and the issue is closed
 <figure><img src="../../.gitbook/assets/Ubiquity-Reward-Dao.png" alt=""><figcaption></figcaption></figure>
 
 1. Click on the payment link provided by the bot.
-2. Follow the instructions on the Cash out Procedures page to claim your Reward.
+2. Follow the instructions on the [Cash out Procedures](cash-out-procedures.md) page to claim your Reward.
