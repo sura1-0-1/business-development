@@ -35,7 +35,7 @@ Wallets like MetaMask are supported for payments, allowing you to manage digital
 
 * How can I contribute to existing tasks?
 
-you can assign your self for the available tasks by using the "**/start**" Command &#x20;
+You can assign your self for the available tasks by using the "**/start**" Command &#x20;
 
 * What are the guidelines for submitting solutions?
 
