@@ -88,7 +88,7 @@ Each plugin must include a `manifest.json` file:
       }
     }
   },
-  "events": ["issues.opened", "pull_request.merged"]
+  "ubiquity:listeners": ["issues.opened", "pull_request.merged"]
 }
 ```
 
