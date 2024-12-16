@@ -25,7 +25,7 @@ Developing plugins for Ubiquity bot opens the door to customizing and extending 
 
 ### **Prerequisites**
 
-**1, Burner GitHub Organization**:
+**1. Burner GitHub Organization**:
 
 Set up a private repository (**`.ubiquity-os`**) to host your configurations.
 
