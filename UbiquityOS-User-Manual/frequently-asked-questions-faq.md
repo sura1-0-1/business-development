@@ -15,7 +15,7 @@ The platform aims to revolutionize task management and collaboration by automati
 
 * **How can developers benefit from this service ?**
 
-1, Earn cryptocurrency by completing tasks and contributing to projects.
+1. Earn cryptocurrency by completing tasks and contributing to projects.
 
 2, Work on diverse projects aligned with your interests, enhancing your expertise.
 
