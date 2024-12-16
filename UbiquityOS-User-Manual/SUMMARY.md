@@ -36,7 +36,7 @@
   * [Cash Out](developer_onboarding/cash-out/README.md)
     * [Cash Out Procedures](developer_onboarding/cash-out/cash-out-procedures.md)
     * [Available Payment Methods](developer_onboarding/cash-out/available-payment-methods/README.md)
-      * [Wallets Supporting Genesis Chain](developer_onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
+      * [Wallets Supporting Gnosis Chain](developer_onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
     * [Import Wallet to Meta Mask](developer_onboarding/cash-out/import-wallet-to-meta-mask.md)
   * [Plugin-Development](developer_onboarding/plugin-development.md)
 * [Partner-Onboarding](partner-onboarding/README.md)
