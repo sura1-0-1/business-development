@@ -1,8 +1,8 @@
 # Step by Step Onboarding
 
-The **DevPool Flow** provides a step-by-step guide for new contributors to integrate into the DevPool and succeed as active members of the Ubiquity-OS ecosystem.&#x20;
+The **DevPool Flow** provides a step-by-step guide for new contributors to integrate into the DevPool and succeed as active members of the Ubiquity-OS ecosystem.
 
-By following these steps, contributors can effectively engage with the  DevPool.
+By following these steps, contributors can effectively engage with the DevPool.
 
 ### Step 1: Set Up Your GitHub Account
 
@@ -17,15 +17,20 @@ Then, go to the DevPool directory and log it with your GitHub account.
 
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-Next, GitHub prompt you to register to the DevPool Registration&#x20;
+Next, GitHub prompts you to register for the DevPool.
 
 <div align="center"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
-Fill out the information such as username and Password.
+**Instructions for User Account Creation**
+
+Please provide the following details:
+
+* **Username**: Enter your desired username.
+* Password: Enter your password.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Finally, authenticate the ubiquity bot to access you personal date for registration. &#x20;
+Finally, authenticate the Ubiquity Bot
 
 ### Step 2: Start Contributing
 
@@ -38,7 +43,7 @@ Browse Available Tasks for opportunities that match your skills. View task detai
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Select a task that fits your skills and check out the issue in GitHub UI.
+Select a task that fits your skills and check out the issue in the GitHub UI.
 
 ### Step 3: Open Task and use Commands start working on the Task.
 
@@ -52,11 +57,11 @@ use /help command to displays a list of all available commands and their descrip
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-These are all available commands&#x20;
+These are all available commands
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-then, you can use&#x20;
+then, you can use
 
 **1. /ask Command**
 
@@ -69,9 +74,9 @@ then, you can use&#x20;
 
 `/ask How do I set up the development environment?`
 
-**2, /Wallet  Command**
+**2, /Wallet Command**
 
-Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.&#x20;
+Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.
 
 **How to Use**
 
@@ -80,8 +85,6 @@ Register your wallet address before completing any tasks. If this is your first 
 `/wallet mywallet.eth`
 
 This must be done before you complete a task, because of the automatic payment system.
-
-
 
 Comment “/wallet 0x0000” but with your address instead, on the issue you are interested to work on to register
 
@@ -93,11 +96,9 @@ Assign yourself and/or others to an issue or task.
 
 Type `/start` in the issue/task thread.
 
-`/start`&#x20;
+`/start`
 
 You will be assigned to the issue or task.
-
-
 
 4, /Stop Command
 
@@ -125,7 +126,7 @@ Returns details about a user’s wallet, access level, and multiplier informatio
 
 **`/query your username`**
 
-6, /allow Command&#x20;
+6, /allow Command
 
 Grants permission to a user to modify a specified label type.
 
@@ -137,6 +138,3 @@ Grants permission to a user to modify a specified label type.
 #### **Example:**
 
 **`/allow @JohnDoe bug`**
-
-
-
