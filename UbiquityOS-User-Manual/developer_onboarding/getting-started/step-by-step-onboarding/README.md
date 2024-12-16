@@ -38,7 +38,7 @@ Browse Available Tasks for opportunities that match your skills. View task detai
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-select the task that much to your skill and check out the issue in GitHub UI.
+Select a task that fits your skills and check out the issue in GitHub UI.
 
 ### Step 3: Open Task and use Commands start working on the Task.
 
