@@ -68,7 +68,7 @@ plugins:
 
 ### **Starter Kit**
 
-Use the **Plugin SDK (upcoming)** and [boilerplate](https://github.com/ubiquity-os/plugin-template) from the plugin template. and this includes an entry point, utilities, and a simplified development setup.
+Use the **Plugin SDK** and [boilerplate](https://github.com/ubiquity-os/plugin-template) from the plugin template. and this includes an entry point, utilities, and a simplified development setup.
 
 ### **Defining Plugin Capabilities**
 
