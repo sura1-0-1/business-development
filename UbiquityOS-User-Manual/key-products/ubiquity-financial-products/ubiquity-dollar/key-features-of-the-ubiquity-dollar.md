@@ -2,7 +2,7 @@
 
 The Ubiquity Dollar (UUSD) represents a groundbreaking advancement in the realm of digital currencies, offering a unique blend of stability and innovation. With a fully collateralized framework, UUSD stands as a reliable digital asset, providing foundational trust and utility across decentralized ecosystems. &#x20;
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled design.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Key Features of UUSD
 
