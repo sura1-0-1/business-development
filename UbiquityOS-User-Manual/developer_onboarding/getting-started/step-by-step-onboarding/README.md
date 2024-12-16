@@ -58,7 +58,7 @@ These are all available commands&#x20;
 
 then, you can use&#x20;
 
-**1, /ask Command**
+**1. /ask Command**
 
 `/ask` Command to ask a question related to the repository, issue, or pull request.
 
