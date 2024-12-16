@@ -79,10 +79,13 @@ Each plugin must include a `manifest.json` file:
   "name": "example-plugin",
   "id": "example-plugin",
   "description": "An example plugin for demonstration.",
-  "inputs": {
-    "inputKey": {
-      "type": "string",
-      "description": "A configurable input for the plugin."
+  "configuration": {
+    "type": "object",
+    "properties": {
+      "inputKey": {
+        "type": "string",
+        "description": "A configurable input for the plugin."
+      }
     }
   },
   "events": ["issues.opened", "pull_request.merged"]
