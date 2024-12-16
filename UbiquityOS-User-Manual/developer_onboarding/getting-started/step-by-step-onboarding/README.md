@@ -52,7 +52,7 @@ use /help command to displays a list of all available commands and their descrip
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-this are all available list of commands&#x20;
+These are all available commands&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
