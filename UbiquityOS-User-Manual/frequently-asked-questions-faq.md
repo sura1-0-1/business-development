@@ -17,7 +17,7 @@ The platform aims to revolutionize task management and collaboration by automati
 
 1. Earn cryptocurrency by completing tasks and contributing to projects.
 
-2, Work on diverse projects aligned with your interests, enhancing your expertise.
+2. Work on diverse projects aligned with your interests, enhancing your expertise.
 
 3, Showcase task completions and contributions to grow your profile and stand out in the developer community.
 
