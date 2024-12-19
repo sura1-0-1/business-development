@@ -16,16 +16,12 @@ The platform aims to revolutionize task management and collaboration by automati
 * **How can developers benefit from this service ?**
 
 1. Earn cryptocurrency by completing tasks and contributing to projects.
-
 2. Work on diverse projects aligned with your interests, enhancing your expertise.
+3. Showcase task completions and contributions to grow your profile and stand out in the developer community.
+4. &#x20;Access tasks suited to your skill set, eliminating the hassle of searching for work.
+5. Contribute to open-source projects, advancing both your career and the broader tech ecosystem.
 
-3, Showcase task completions and contributions to grow your profile and stand out in the developer community.
-
-4, Access tasks suited to your skill set, eliminating the hassle of searching for work.
-
-5, Contribute to open-source projects, advancing both your career and the broader tech ecosystem.
-
-* How do I create  devpool account?
+* How do I create devpool account?
 
 To get started with DevPool, you'll first need to create a GitHub account if you don't already have one. Visit **GitHub's website** to sign up and follow the prompts to verify your email. Once your account is set up, log in to GitHub. Next, navigate to the DevPool platform and look for the "**Sign in with GitHub**" option. Click it to authorize **DevPool** to access your **GitHub account**.
 
@@ -35,7 +31,7 @@ Wallets like MetaMask are supported for payments, allowing you to manage digital
 
 * How can I contribute to existing tasks?
 
-You can assign your self for the available tasks by using the "**/start**" Command &#x20;
+You can assign your self for the available tasks by using the "**/start**" Command
 
 * What are the guidelines for submitting solutions?
 
@@ -47,7 +43,4 @@ To cash out your earnings directly to a registered wallet, first ensure your wal
 
 * Are there fees associated with cashing out ?
 
-Yes, there are often fees associated with cashing out earnings to your wallet.  you'll need to cover gas fees, which are necessary for processing transactions on the blockchain. Ensure your wallet has enough balance to handle these fees when you claim your payment.
-
-
-
+Yes, there are often fees associated with cashing out earnings to your wallet. you'll need to cover gas fees, which are necessary for processing transactions on the blockchain. Ensure your wallet has enough balance to handle these fees when you claim your payment.
