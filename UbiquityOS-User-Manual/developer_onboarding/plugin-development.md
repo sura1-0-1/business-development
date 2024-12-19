@@ -31,12 +31,12 @@ Set up a private repository (**`.ubiquity-os`**) to host your configurations.
 
 Use this for **testing** and **showcasing** **QA** results.
 
-**2, Cloudflare Accounts**:
+2. **Cloudflare Accounts**:
 
 * **Account 1**: Hosts the **kernel**.
 * **Account 2**: **Hosts all plugins** (separate from kernel due to Cloudflare Worker restrictions).
 
-**3, GitHub App Setup**:
+3. **GitHub App Setup**:
 
 The **webhook URL** must point to the kernel’s address.
 

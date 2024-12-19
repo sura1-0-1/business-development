@@ -29,7 +29,7 @@ this are all available list of commands.
 
 then, you can use the list of commands to interact  Ubiquity OS.
 
-**1, /ask Command**
+1. **/ask Command**
 
 `/ask` Command to ask a question related to the repository, issue, or pull request.
 
@@ -42,7 +42,7 @@ then, you can use the list of commands to interact  Ubiquity OS.
 
 
 
-**2, /Wallet  Command**
+2. &#x20;**/Wallet  Command**
 
 Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.&#x20;
 
@@ -58,7 +58,7 @@ Comment “/wallet 0x0000” but with your address instead, on the issue you are
 
 
 
-**3, /start command**
+**3.  /start command**
 
 Assign yourself and/or others to an issue or task.
 
@@ -72,7 +72,7 @@ You will be assigned to the issue or task.
 
 
 
-4, /Stop Command
+4. /Stop Command
 
 this command will Unassign yourself from an issue or task.
 
@@ -86,7 +86,7 @@ Type `/stop` in the issue/task thread.
 
 this command will unassign you from the task or issue.
 
-**5, /query Command**
+5. **/query Command**
 
 Returns details about a user’s wallet, access level, and multiplier information.
 
@@ -98,7 +98,7 @@ Returns details about a user’s wallet, access level, and multiplier informatio
 
 **`/query your username`**
 
-6, /allow Command&#x20;
+6. &#x20;/allow Command&#x20;
 
 Grants permission to a user to modify a specified label type.
 
