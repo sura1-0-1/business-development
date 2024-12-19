@@ -19,22 +19,20 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 * [**Our Vision**](our-vision.md)
 * [**Mission**](mission.md)
 * [**Developer Onboarding**](developer_onboarding/getting-started/step-by-step-onboarding/)
-  * [**Getting started**](Developer_Onboarding/getting-started/)
-  * [**Step by Step Onboarding**](../Developer_Onboarding/getting-started/step-by-step-onboarding/)
-    * [**Setup DevPool Account**](../Developer_Onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
-    * [**Start Contributing**](../Developer_Onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
-    * [**Submit Solution**](../Developer_Onboarding/getting-started/step-by-step-onboarding/tasks-management.md)
-  * [**Communication Guidelines**](Developer_Onboarding/communication-guidelines.md)
-  * [**Cash Out**](Developer_Onboarding/cash-out/)
-    * [**Cash Out Procedures**](Developer_Onboarding/cash-out/cash-out-procedures.md)
-    * [**Available Payment Methods**](Developer_Onboarding/cash-out/available-payment-methods/)
-      * [**Wallets Supporting Genesis Chain**](Developer_Onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
-      * [**Wallets Supporting xDai**](Developer_Onboarding/cash-out/available-payment-methods/wallets-supporting-xdai.md)
-  * [**Import Wallet to Meta Mask**](Developer_Onboarding/cash-out/import-wallet-to-meta-mask.md)
+  * [**Getting started**](developer_onboarding/getting-started/)
+  * [**Step by Step Onboarding**](developer_onboarding/getting-started/step-by-step-onboarding/)
+    * [**Setup DevPool Account**](developer_onboarding/getting-started/step-by-step-onboarding/setup-devpool-account.md)
+    * [**Start Contributing**](developer_onboarding/getting-started/step-by-step-onboarding/start-contributing.md)
+    * [**Submit Solution**](developer_onboarding/getting-started/step-by-step-onboarding/tasks-management.md)
+  * [**Communication Guidelines**](developer_onboarding/communication-guidelines.md)
+  * [**Cash Out**](developer_onboarding/cash-out/)
+    * [**Cash Out Procedures**](developer_onboarding/cash-out/cash-out-procedures.md)
+    * [**Available Payment Methods**](developer_onboarding/cash-out/available-payment-methods/)
+      * [**Wallets Supporting Genesis Chain**](developer_onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
+  * [**Import Wallet to Meta Mask**](developer_onboarding/cash-out/import-wallet-to-meta-mask.md)
 * [**Partner Onboarding**](partner-onboarding/)
-  * [**How UbiquityOS Works**](Partner-Onboarding/how-ubiquityos-works.mdmd)
-* [**Plugin Development**](./)
-  * [_**Best Practices**_](Plugin-Development/Best-Practices.md)
+  * [**How UbiquityOS Works**](partner-onboarding/how-ubiquityos-works.md)
+  * [**Plugin Development**](developer_onboarding/plugin-development.md)
 * [**FAQs**](frequently-asked-questions-faq.md)
 
 ***
@@ -44,8 +42,8 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 To get started with **Ubiquity**-**DAO**, choose the appropriate guide based on your role:
 
 1. [**Partner**](partner-onboarding/how-ubiquityos-works.md): Learn how to install the plugin and integrate with **Ubiquity**-**DAO**.
-2. [**Developer\`s**](Developer-Onboarding/Guide.md): Follow detailed steps to work with the **UbiquityOS** devpool flow.
-3. [**3rd-Party Plugin Development**](broken-reference/): Discover how to use the plugin template and best practices.
+2. [**Developer\`s**:](Developer_Onboarding/) Follow detailed steps to work with the **UbiquityOS** devpool flow.
+3. [**3rd-Party Plugin Development**:](developer_onboarding/plugin-development.md) Discover how to use the plugin template and best practices.
 
 ***
 
@@ -71,7 +69,7 @@ If you encounter any issues or have questions, check out the [FAQs](../frequentl
 
 ### 🌟 **Stay Connected**
 
-For the latest updates on UbiquityOS, follow us:
+For the latest updates on **UbiquityOS**, follow us:
 
 * [Official Website](https://ubq.fi/)
 * [GitHub Repository](https://github.com/ubiquity-os/)

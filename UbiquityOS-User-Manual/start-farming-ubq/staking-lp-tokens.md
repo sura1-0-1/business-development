@@ -13,22 +13,22 @@ Once again, make sure that your Metamask wallet is connected, this time to the s
 
 ## **Steps to Stake LP Tokens**
 
-**1, Access the Staking Dashboard:**
+1. **Access the Staking Dashboard:**
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Navigate to the **staking section** on the Ubiquity Dashboard.
 
-**2, Choose Lockup Period:**
+2. **Choose Lockup Period:**
 
 * Select a staking duration between **1 week to 208 weeks (4 years)**.
 * Longer durations yield **higher reward multipliers**, amplifying your UBQ earnings.
 
-**3, Stake Tokens:**
+3. **Stake Tokens:**
 
 Approve the transaction in Meta Mask. Your LP tokens are now locked in the staking contract.
 
-**4, Track Your Staked Amount:**
+4. **Track Your Staked Amount:**
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

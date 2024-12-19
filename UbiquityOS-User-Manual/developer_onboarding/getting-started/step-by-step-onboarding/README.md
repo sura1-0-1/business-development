@@ -88,7 +88,7 @@ This must be done before you complete a task, because of the automatic payment s
 
 Comment “/wallet 0x0000” but with your address instead, on the issue you are interested to work on to register
 
-**3, /start command**
+3. **/start command**
 
 Assign yourself and/or others to an issue or task.
 
@@ -100,7 +100,7 @@ Type `/start` in the issue/task thread.
 
 You will be assigned to the issue or task.
 
-4, /Stop Command
+4. /Stop Command
 
 this command will Unassign yourself from an issue or task.
 
@@ -114,7 +114,7 @@ Type `/stop` in the issue/task thread.
 
 this command will unassign you from the task or issue.
 
-**5, /query Command**
+5. **/query Command**
 
 Returns details about a user’s wallet, access level, and multiplier information.
 
@@ -126,7 +126,7 @@ Returns details about a user’s wallet, access level, and multiplier informatio
 
 **`/query your username`**
 
-&#x36;**, /allow** Command
+6. **/allow** Command
 
 Grants permission to a user to modify a specified label type.
 
