@@ -28,7 +28,7 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
   * [**Cash Out**](developer_onboarding/cash-out/)
     * [**Cash Out Procedures**](developer_onboarding/cash-out/cash-out-procedures.md)
     * [**Available Payment Methods**](developer_onboarding/cash-out/available-payment-methods/)
-      * [**Wallets Supporting Genesis Chain**](developer_onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
+      * [**Wallets Supporting Gnosis Chain**](developer_onboarding/cash-out/available-payment-methods/wallets-supporting-genesis-chain.md)
   * [**Import Wallet to Meta Mask**](developer_onboarding/cash-out/import-wallet-to-meta-mask.md)
 * [**Partner Onboarding**](partner-onboarding/)
   * [**How UbiquityOS Works**](partner-onboarding/how-ubiquityos-works.md)
