@@ -21,9 +21,7 @@ Next, GitHub prompts you to register for the DevPool.
 
 <div align="center"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
-**Instructions for User Account Creation**
-
-Please provide the following details:
+Then, please provide the following details:
 
 * **Username**: Enter your GitHub username.
 * **Password**: Enter your GitHub password.
