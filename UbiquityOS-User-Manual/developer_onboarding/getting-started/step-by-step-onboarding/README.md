@@ -46,7 +46,7 @@ Once you’ve completed your task, it’s time to submit your deliverables for r
 
 ***
 
-You’re now ready to unlock the full potential of DevPool! This onboarding guide equips you with the steps and resources needed to succeed as an active contributor. From setting up your GitHub account and exploring tasks to submitting your work and tracking rewards, each step ensures you can thrive in this collaborative environment.&#x20;
+You’re now ready to unlock the full potential of DevPool!&#x20;
 
 Let’s build, grow, and contribute to the Ubiquity OS ecosystem together. Welcome aboard! 🚀
 
