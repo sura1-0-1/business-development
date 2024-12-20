@@ -27,7 +27,7 @@
     <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 
-2.  **For Genesis Chain**&#x20;
+2.  **For Gnosis Chain**&#x20;
 
     <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
