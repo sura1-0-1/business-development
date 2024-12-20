@@ -18,7 +18,7 @@
 
 ***
 
-### **Step 3: Add the xDai or Genesis Chain Network**
+### **Step 3: Add the xDai or Gnosis Chain Network**
 
 1.  **Open Meta Mask** :
 
