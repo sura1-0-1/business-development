@@ -2,7 +2,7 @@
 
 Ubiquity Cards are designed to seamlessly connect the digital economy, particularly the growing metaverse, with traditional real-world financial transactions. Issued as virtual prepaid cards, they are compatible with Apple Pay, Android Pay, and Samsung Pay, ensuring ease of use in both digital and physical retail environments. One of the standout features of Ubiquity Cards is the ability to spend up to $1,000 without undergoing Know Your Customer (KYC) procedures.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Key Features**
 

@@ -26,7 +26,7 @@ The duration of the Cool Off Period is estimated to be around **three months**, 
 
 Voting power within this framework is determined by the staking of **UBQ** tokens, where staked governance tokens dictate the weight of each vote. Additionally, a duration multiplier is applied, which means that longer staking periods result in greater voting power, following a predefined multiplier curve.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Voting power** is determined by:
 

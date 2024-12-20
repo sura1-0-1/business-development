@@ -8,29 +8,29 @@ By following these steps, contributors can effectively engage with the DevPool.
 
 1.  **Sign Up**
 
-    Visit our GitHub Official Website and click on "**Sign Up**" if you don\`t have account or if you have already have a GitHub account click on "**Login**" to get stand with GitHub. Complete the registration form to create your account.
+    Visit  Official GitHub  Website and click on "**Sign Up**" if you don\`t have account or if you have already have a GitHub account click on "**Login**" to get stand with GitHub. Complete the registration form to create your account.
 2.  **Verify Your Identity**
 
     Follow the prompts to verify your account. Secure your account with two-factor authentication.
 
-Then, go to the DevPool directory and log in with your GitHub account.
+Then, Go to the [DevPool directory](https://devpool.directory/) and log in with your GitHub account.
 
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Next, GitHub prompts you to register for the DevPool.
 
-<div align="center"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="322"><figcaption></figcaption></figure></div>
 
 **Instructions for User Account Creation**
 
 Please provide the following details:
 
-* **Username**: Enter your desired username.
-* **Password**: Enter your password.
+* **Username**: Enter your GitHub username.
+* **Password**: Enter your GitHub password.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Finally, authenticate the Ubiquity Bot
+Finally, approve your registration by authorizing Ubiquity bot to access your GitHub credential\`s.
 
 ### Step 2: Start Contributing
 
@@ -51,7 +51,11 @@ Select a task that fits your skills and check out the issue in the GitHub UI.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Use **/ commands** to register and assign your self to the task.
+Then, open the task.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* Use a list of **commands** to register and assign your self to the task.
 
 use **/help** command to displays a list of all available commands and their descriptions.
 
@@ -60,8 +64,6 @@ use **/help** command to displays a list of all available commands and their des
 These are all available commands
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-then, you can use
 
 **1. /ask Command**
 

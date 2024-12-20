@@ -1,6 +1,6 @@
 # UbiquityOS for Developers
 
-Welcome to the UbiquityOS Developers Manual. Use this guide to maximize your experience and understand the core features of UbiquityOS DevPool.
+Welcome to the Ubiquity OS Developers Manual. Use this guide to maximize your experience and understand the core features of Ubiquity OS DevPool.
 
 ## 📖 **Table of Contents**
 
@@ -17,4 +17,4 @@ Welcome to the UbiquityOS Developers Manual. Use this guide to maximize your exp
   * [Import Wallet to Meta Mask](../developer_onboarding/cash-out/import-wallet-to-meta-mask.md)
 * [Plugin-development](../developer_onboarding/plugin-development.md)
 
-The **UbiquityOS DevPool** is more than just a workplace. it's a dynamic ecosystem where innovation meets collaboration, enabling contributors to thrive in a decentralized environment.
+The **Ubiquity OS DevPool** is more than just a workplace. it's a dynamic ecosystem where innovation meets collaboration, enabling contributors to thrive in a decentralized environment.
