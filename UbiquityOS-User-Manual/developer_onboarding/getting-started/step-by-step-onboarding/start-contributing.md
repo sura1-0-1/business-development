@@ -17,17 +17,15 @@ Select the task that much to your skill and check out the issue in GitHub UI.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Use / commands to register and assign your self to the task.
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 use /help command to displays a list of all available commands and their descriptions.
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-this are all available list of commands.
-
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-then, you can use the list of commands to interact  Ubiquity OS.
+then, you can use the list of commands to interact  Ubiquity OS Bot.
 
 1. **/ask Command**
 

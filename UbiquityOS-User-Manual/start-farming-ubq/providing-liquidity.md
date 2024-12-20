@@ -21,7 +21,7 @@ Go to the  [Ubiquity Dollar dashboard](http://uad.ubq.fi/) and click the **DEPOS
 
 ### 3. Add Liquidity:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Connect your **Metamask wallet** to the Curve dApp. Once that is done, you can click the blue droplet (see below) to add liquidity to the UUSD pool. You can use either DAI or USDC. Add in your amount and click add liquidity. Approve your transaction on Metamask.
 
