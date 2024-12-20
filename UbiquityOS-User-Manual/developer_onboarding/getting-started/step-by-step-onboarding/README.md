@@ -46,8 +46,6 @@ Once you’ve completed your task, it’s time to submit your deliverables for r
 
 ***
 
-You’re now ready to unlock the full potential of DevPool!&#x20;
-
-Let’s build, grow, and contribute to the Ubiquity OS ecosystem together. Welcome aboard! 🚀
+You’re now ready to unlock the full potential of DevPool!  Let’s build, grow, and contribute to the Ubiquity OS ecosystem together. Welcome aboard! 🚀
 
 Let’s get started! 🚀
