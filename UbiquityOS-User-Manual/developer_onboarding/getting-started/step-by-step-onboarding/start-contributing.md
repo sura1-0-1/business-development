@@ -1,6 +1,6 @@
 # Start Contributing
 
-* **Browse Available Tasks**
+### **Browse Available Tasks**
 
 Browse Available Tasks for opportunities that match your skills. View task details, deadlines, Priority level and rewards.
 
@@ -11,7 +11,7 @@ Browse Available Tasks for opportunities that match your skills. View task detai
 
 Select the task that much to your skill and check out the issue in GitHub UI.
 
-### Step 3: Open Task and use Commands start working on the Task.
+### Open Task and use Commands start working on the Task.
 
 * Open Task that fit to your skill
 
@@ -19,7 +19,7 @@ Select the task that much to your skill and check out the issue in GitHub UI.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-use /help command to displays a list of all available commands and their descriptions.
+use **/help** command to displays a list of all available commands and their descriptions.
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,8 +38,6 @@ then, you can use the list of commands to interact  Ubiquity OS Bot.
 
 `/ask How do I set up the development environment?`
 
-
-
 2. &#x20;**/Wallet  Command**
 
 Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.&#x20;
@@ -54,8 +52,6 @@ This must be done before you complete a task, because of the automatic payment s
 
 Comment “/wallet 0x0000” but with your address instead, on the issue you are interested to work on to register.
 
-
-
 **3.  /start command**
 
 Assign yourself and/or others to an issue or task.
@@ -67,8 +63,6 @@ Type `/start` in the issue/task thread.
 `/start`&#x20;
 
 You will be assigned to the issue or task.
-
-
 
 4. /Stop Command
 

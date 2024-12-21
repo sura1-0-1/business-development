@@ -2,7 +2,7 @@
 
 ### Welcome to the **DevPool Onboarding Guide**
 
-This guide is specifically designed to help you integrate into DevPool seamlessly, execute tasks confidently, and collaborate effectively within a thriving community. By following these onboarding steps, you’ll be ready to start making meaningful contributions in no time.&#x20;
+This guide is specifically designed to help you integrate into [DevPool](https://devpool.directory/) seamlessly, execute tasks confidently, and collaborate effectively within a thriving community. By following these onboarding steps, you’ll be ready to start making meaningful contributions in no time.&#x20;
 
 Let’s dive in! 🚀
 
@@ -10,7 +10,7 @@ Let’s dive in! 🚀
 
 ### **Step 1: Set Up Your GitHub Account**
 
-The first step is to set up your GitHub account and link it to DevPool. To get started, log in to the DevPool directory using your GitHub credentials. Once inside, follow the prompts to register by entering your GitHub username and password. After providing this information, you'll be asked to approve access by authorizing the Ubiquity bot to connect to your GitHub account.&#x20;
+The first step is to set up your GitHub account and link it to [DevPool](https://devpool.directory/). To get started, log in to the [DevPool directory](https://devpool.directory/) using your GitHub credentials. Once inside, follow the prompts to register by entering your GitHub username and password. After providing this information, you'll be asked to approve access by authorizing the Ubiquity bot to connect to your GitHub account.&#x20;
 
 Once registration is complete, you’re officially part of DevPool and can start exploring opportunities.
 
