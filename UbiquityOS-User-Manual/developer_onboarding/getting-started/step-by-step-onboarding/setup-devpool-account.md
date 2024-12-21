@@ -4,7 +4,7 @@
 
 * **Sign Up to GitHub**
 
-Visit our [GitHub Official Website](https://github.com/) and click on "**Sign Up**" if you don\`t have account or if you have already have a GitHub account click on "**Login**" to get stand with GitHub. Complete the registration form to create your account.
+Visit our [GitHub Official Website](https://github.com/) and click on "**Sign Up**" if you don\`t have account or if you have already have a GitHub account click on "**Log in**" to get stand with GitHub. Complete the registration form to create your account.
 
 * **Verify Your  GitHub Account**
 

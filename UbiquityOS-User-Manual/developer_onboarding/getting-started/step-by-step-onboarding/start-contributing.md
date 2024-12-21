@@ -25,7 +25,7 @@ use **/help** command to displays a list of all available commands and their des
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-then, you can use the list of commands to interact  Ubiquity OS Bot.
+then, you can use the list of commands to interact  Ubiquity OS.
 
 1. **/ask Command**
 

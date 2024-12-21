@@ -12,7 +12,7 @@ Let’s dive in! 🚀
 
 The first step is to set up your GitHub account and link it to [DevPool](https://devpool.directory/). To get started, log in to the [DevPool directory](https://devpool.directory/) using your GitHub credentials. Once inside, follow the prompts to register by entering your GitHub username and password. After providing this information, you'll be asked to approve access by authorizing the Ubiquity bot to connect to your GitHub account.&#x20;
 
-Once registration is complete, you’re officially part of DevPool and can start exploring opportunities.
+Once registration is complete, you’re officially part of [**DevPool**](https://devpool.directory/) and can start exploring opportunities.
 
 ***
 

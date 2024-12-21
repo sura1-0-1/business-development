@@ -1,6 +1,6 @@
 # Overview
 
-The **DevPool** is a transformative initiative by **Ubiquity DAO** that aims to streamline operations within natively decentralized organizations. It provides a robust framework where contributors can engage with meaningful projects and collaborate effectively to advance the mission of **Ubiquity DAO**.
+The [**DevPool**](https://devpool.directory/) is a transformative initiative by **Ubiquity DAO** that aims to streamline operations within natively decentralized organizations. It provides a robust framework where contributors can engage with meaningful projects and collaborate effectively to advance the mission of **Ubiquity DAO**.
 
 ### Key Features
 
