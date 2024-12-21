@@ -2,8 +2,6 @@
 
 ## Create GitHub Account and Register to DevPool
 
-* **Sign Up to GitHub**
-
 Visit our [GitHub Official Website](https://github.com/) and click on "**Sign Up**" if you don\`t have account or if you have already have a GitHub account click on "**Log in**" to get stand with GitHub. Complete the registration form to create your account.
 
 * **Verify Your  GitHub Account**
@@ -23,3 +21,5 @@ Then, fill out the GitHub credentials, such as **username** and **password**.
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Finally, authenticate the Ubiquity to access your personal data for registration.
+
+Enhance your experience by downloading the [GitHub Mobile App](https://github.com/mobile) to receive notifications and stay updated on the go.
