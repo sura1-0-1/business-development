@@ -10,7 +10,7 @@ Visit our [GitHub Official Website](https://github.com/) and click on "**Sign Up
 
 Follow the prompts to verify your account. Secure your account with two-factor authentication.
 
-Then, go to the [devpool directory](https://devpool.directory/) and log it with your GitHub account.
+Then, go to the [devpool directory](https://devpool.directory/) and log in with your GitHub account.
 
 <figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
