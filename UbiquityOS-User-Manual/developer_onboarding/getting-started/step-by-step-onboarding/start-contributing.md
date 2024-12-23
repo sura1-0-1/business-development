@@ -66,7 +66,7 @@ You will be assigned to the issue or task.
 
 4. /Stop Command
 
-this command will Unassign yourself from an issue or task.
+This command will Unassign yourself from an issue or task.
 
 #### **How to Use**
 
@@ -76,7 +76,7 @@ Type `/stop` in the issue/task thread.
 
 #### `/stop`
 
-this command will unassign you from the task or issue.
+This command will unassign you from the task or issue.
 
 5. **/query Command**
 
