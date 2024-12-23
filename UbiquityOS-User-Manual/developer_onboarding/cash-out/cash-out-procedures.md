@@ -37,5 +37,4 @@ Approve the payment request in your wallet and wait for the confirmation message
 
 Check your wallet to confirm the payment has been received. Payment should reflect in your wallet within a few minutes.
 
-If you face any issues, contact the **Support team or discuss on** GitHub discussion thread.
-
+If you face any issues, check out the [FAQs](../../../frequently-asked-questions-faq.md) or contact our support team at [Ubiquity Dev chat group](https://t.me/UbiquityDAO) or [Discord server](https://discord.com/invite/SjymJ5maJ4).
