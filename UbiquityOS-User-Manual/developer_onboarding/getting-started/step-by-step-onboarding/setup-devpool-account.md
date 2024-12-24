@@ -20,6 +20,6 @@ Then, fill out the GitHub credentials, such as **username** and **password**.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Finally, authenticate the Ubiquity to access your personal data for registration.
+Finally, allow our GitHub App to access your personal data for registration.
 
 Enhance your experience by downloading the [GitHub Mobile App](https://github.com/mobile) to receive notifications and stay updated on the go.
