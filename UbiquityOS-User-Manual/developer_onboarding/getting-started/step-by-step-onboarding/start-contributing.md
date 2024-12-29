@@ -2,20 +2,17 @@
 
 ### **Browse Available Tasks**
 
-Browse Available Tasks for opportunities that match your skills. View task details, deadlines, Priority level and rewards.
-
-* Sort tasks by **Price, Time, Priority,** or **Recent Activity**.
-* Logging in with GitHub enables real-time text filtering by keyword.
+When logging in with GitHub, you gain access to a dynamic platform where you can filter text in real-time using specific keywords. This feature assists in efficiently sorting and organizing your tasks according to various criteria, such as **Price**, **Time**, **Priority**, or **Recent Activity**. By using these sorting options, you can easily manage your workflow and focus on what matters most.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Select the task that much to your skill and check out the issue in GitHub UI.
-
-### Open Task and use Commands start working on the Task.
-
-* Open Task that fit to your skill
+Each task comes with comprehensive details, including specific information about deadlines, the designated Priority level, and any potential rewards associated with task completion. This system ensures that you are well-informed before you commit to any tasks, helping you to make the best decisions.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Open Task and use slash Commands to start working on the Task.
+
+Begin by selecting a task that closely matches your skillset. Once identified, utilize available Commands to commence work and Access the task through the GitHub user interface.
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,28 +22,25 @@ use **/help** command to displays a list of all available commands and their des
 
 <figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-then, you can use the list of commands to interact  Ubiquity OS.
+Then, you can use the list of commands to interact Ubiquity OS.
 
 1. **/ask Command**
 
-`/ask` Command to ask a question related to the repository, issue, or pull request.
+To ask questions related to repositories, issues, or pull requests within the Ubiquity OS environment. This command ensures that your queries are addressed accurately and efficiently.
 
-**How to Use:**
+Type `/ask` followed by your question.
 
-* Type `/ask` followed by your question.
-* Be specific to get accurate answers.
+**For Example:**
 
 `/ask How do I set up the development environment?`
 
-2. &#x20;**/Wallet  Command**
+2. **/Wallet  Command**
 
 Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.&#x20;
 
-**How to Use:**
+**For Example:**
 
-* Replace `ubq.eth` with your actual wallet address.
-
-`/wallet mywallet.eth`
+`/wallet mywallet.eth`    .Replace `ubq.eth` with your actual wallet address.
 
 This must be done before you complete a task, because of the automatic payment system.
 
@@ -54,54 +48,31 @@ Comment “/wallet 0x0000” but with your address instead, on the issue you are
 
 **3.  /start command**
 
-Assign yourself and/or others to an issue or task.
+To assign yourself to an issue or task, utilize the /start slash command.&#x20;
 
-#### **How to Use**
+First, navigate to the issue or task you want to take ownership of. Once there, locate the input field where you can enter commands. Type the /start command. This command will trigger the system to assign the task to your profile.&#x20;
 
-Type `/start` in the issue/task thread.
+4. /**Stop Command**
 
-`/start`&#x20;
-
-You will be assigned to the issue or task.
-
-4. /Stop Command
-
-This command will Unassign yourself from an issue or task.
-
-#### **How to Use**
-
-Type `/stop` in the issue/task thread.
-
-#### **Example**
-
-#### `/stop`
-
-This command will unassign you from the task or issue.
+Using the `/stop` command will allow you to unassign yourself from a specific issue or task within a project management or collaboration tool. This is useful when you are no longer able to contribute to the task or when the task needs to be reassigned to someone else better suited to handle it.&#x20;
 
 5. **/query Command**
 
-Returns details about a user’s wallet, access level, and multiplier information.
+The `/query` command is a tool designed to fetch comprehensive information about a user's account within the system. By specifying the username in place of the placeholder `@Username`, the command can retrieve detailed data including wallet address and assigned access levels.
 
-#### **How to Use**
-
-1. Replace `@UbiquityOS` with the username whose information you want to query.
-
-**Example**
+**For Example**
 
 **`/query your username`**
 
-6. &#x20;/allow Command&#x20;
 
-Grants permission to a user to modify a specified label type.
 
-#### **How to Use**
+6. &#x20;**/allow Command**&#x20;
 
-1. Replace `@user1` with the username of the person you want to grant access.
-2. Replace `label` with the specific label type.
+To grant permission to a user for modifying a specified label type, replace `@user1` with the appropriate username of the individual who should receive access. Additionally, substitute `label` with the particular label type you intend for them to manage. This change ensures that the chosen user is authorized to make alterations to the specified label type. Be
 
 #### **Example**
 
-**`/allow @JohnDoe bug`**
+**`/allow @JohnDoe contributor`**
 
 
 
