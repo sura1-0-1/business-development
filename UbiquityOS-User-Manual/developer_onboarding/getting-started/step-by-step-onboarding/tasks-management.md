@@ -58,10 +58,10 @@ This guide outlines the step-by-step procedure for creating a Draft Pull Request
        ```
 
        Replace `<URL-to-the-issue>` with the actual issue URL.
-5.
 
-    <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-6. Select **Create Draft Pull Request** (not a standard PR).
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+1. Select **Create Draft Pull Request** (not a standard PR).
 
 ### **Step 5: Work on the Task**
 
