@@ -28,10 +28,6 @@ The **Ubiquity Wallet** is a crucial element of the Ubiquity ecosystem, designed
 
 The **Ubiquity OS DevPool** is an innovative platform that combines the power of decentralized finance (DeFi) and artificial intelligence (AI). It offers dynamic rewards, advanced governance tools, and global collaboration solutions, empowering contributors and organizations to thrive in a decentralized ecosystem.
 
-2. **Ubiquity Superintendent**
-
-The Ubiquity Superintendent, known as **UbiquiBot** or **The Kernel,** is an advanced AI agent designed to optimize and automate project management across the Ubiquity network. It integrates comprehensively with GitHub, supporting all events such as issue closures, pull requests, and new comments, providing real-time insights and automated responses for effective project management.&#x20;
-
-3. **Ubiquity Rewards**
+2. **Ubiquity Rewards**
 
 Ubiquity Rewards is the central payment platform within UbiquityOS, designed to allow contributors to seamlessly collect rewards for their contributions to projects in the Ubiquity network.

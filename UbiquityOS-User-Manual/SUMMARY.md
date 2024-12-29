@@ -14,7 +14,6 @@
     * [Ubiquity Cards](key-products/ubiquity-financial-products/ubiquity-cards.md)
     * [Ubiquity Wallet](key-products/ubiquity-financial-products/ubiquity-wallet.md)
   * [Ubiquity Productivity Tools](key-products/ubiquity-productivity-tools/README.md)
-    * [Ubiquity Superintendent ( UbiquiBot/The Kernel)](key-products/ubiquity-productivity-tools/ubiquity-superintendent-ubiquibot-the-kernel.md)
     * [Ubiquity OS DevPool](key-products/ubiquity-productivity-tools/ubiquity-os/README.md)
       * [Key Features of the DevPool](key-products/ubiquity-productivity-tools/ubiquity-os/key-features-of-the-devpool.md)
     * [Ubiquity Rewards (pay.ubq.fi)](key-products/ubiquity-productivity-tools/ubiquity-rewards-pay.ubq.fi.md)
