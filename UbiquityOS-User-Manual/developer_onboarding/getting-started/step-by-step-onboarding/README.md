@@ -26,7 +26,7 @@ Once you find a task that aligns with your skills, you’re ready to jump in!
 
 ### **Step 3: Select and Start Your Task**
 
-Now that you've identified a task, it’s time to take the next step. Open the task to review it in detail, ensuring it’s a good fit for your skills. Once you're confident, use DevPool commands to assign yourself to the task. Start by entering the `/start` command, which automatically assigns the task to you and marks it under your responsibility. To familiarize yourself with other available commands for managing your task, type `/help`, which will display a complete list of commands and their descriptions.&#x20;
+Now that you've identified a task, it’s time to take the next step. Open the task to review it in detail, ensuring it’s a good fit for your skills. Once you're confident, open the associated issue in GitHub and use the `/start` command to assign yourself to the task. By doing so, `ubiquity-os` bot will automatically assign the task to you and mark it under your responsibility. To familiarize yourself with other available commands for managing your task, type `/help`, which will display a complete list of commands and their descriptions.&#x20;
 
 With the task assigned and your tools ready, you can officially start working on it.
 
