@@ -18,7 +18,7 @@
       * [Key Features of the DevPool](key-products/ubiquity-productivity-tools/ubiquity-os/key-features-of-the-devpool.md)
     * [Ubiquity Rewards (pay.ubq.fi)](key-products/ubiquity-productivity-tools/ubiquity-rewards-pay.ubq.fi.md)
   * [Governance Module](key-products/governance-module/README.md)
-    * [How Governance Module](key-products/governance-module/how-governance-module.md)
+    * [How the Governance Module Works](key-products/governance-module/how-governance-module.md)
     * [Governance Principles](key-products/governance-module/governance-principles.md)
 * [Start Farming UBQ](start-farming-ubq/README.md)
   * [Providing Liquidity](start-farming-ubq/providing-liquidity.md)
