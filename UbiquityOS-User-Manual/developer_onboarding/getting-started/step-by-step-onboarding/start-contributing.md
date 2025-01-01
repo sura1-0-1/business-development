@@ -52,7 +52,7 @@ To assign yourself to an issue or task, utilize the /start slash command.&#x20;
 
 First, navigate to the issue or task you want to take ownership of. Once there, locate the input field where you can enter commands. Type the /start command. This command will trigger the system to assign the task to your profile.&#x20;
 
-4. /**Stop Command**
+4. /**stop Command**
 
 Using the `/stop` command will allow you to unassign yourself from a specific issue or task within a project management or collaboration tool. This is useful when you are no longer able to contribute to the task or when the task needs to be reassigned to someone else better suited to handle it.&#x20;
 
