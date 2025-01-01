@@ -34,7 +34,7 @@ Type `/ask` followed by your question.
 
 `/ask How do I set up the development environment?`
 
-2. **/Wallet  Command**
+2. **/wallet  Command**
 
 Register your wallet address before completing any tasks. If this is your first time participating in the DevPool, you will need to register your wallet address to collect payment upon completion of the task.&#x20;
 
