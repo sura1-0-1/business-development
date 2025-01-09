@@ -9,7 +9,7 @@ plugins:
           maxConcurrentTasks:
             member: 2
             contributor: 2
-          emptyWalletText: Please set your wallet address with the /wallet command first
+          emptyWalletText: Please set your wallet address with the /wallet command firstd
             and try again.
           rolesWithReviewAuthority:
             - COLLABORATOR
@@ -55,6 +55,8 @@ plugins:
                 collaboratorOnly: false
               - name: "Time: <1 Week"
                 collaboratorOnly: false
+              - name: "Time: <2 Weeks"
+                collaboratorOnly: false                
             priority:
               - name: "Priority: 0 (Regression)"
                 collaboratorOnly: false
