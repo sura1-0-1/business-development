@@ -42,7 +42,7 @@ This guide is designed to help **partners**, **developers**, and **plugin develo
 To get started with **Ubiquity**-**DAO**, choose the appropriate guide based on your role:
 
 1. [**Partner**](partner-onboarding/how-ubiquityos-works.md): Learn how to install the plugin and integrate with **Ubiquity**-**DAO**.
-2. [**Developer\`s**:](Developer_Onboarding/) Follow detailed steps to work with the **UbiquityOS** devpool flow.
+2. [**Developers**:](Developer_Onboarding/) Follow detailed steps to work with the **UbiquityOS** devpool flow.
 3. [**3rd-Party Plugin Development**:](developer_onboarding/plugin-development.md) Discover how to use the plugin template and best practices.
 
 ***
